@@ -1,0 +1,69 @@
+{
+  "book": "假如给我三天光明",
+  "draft_name": "假如给我三天光明-书单视频",
+
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+
+  "asset_base": "https://raw.githubusercontent.com/lile828/book-video/main/",
+
+  "shots": [
+    { "image": "00_原始素材/封面/封面.png",            "start": 0,  "end": 4,  "transition": "叠化", "transition_duration": 0.5 },
+    { "image": "00_原始素材/背景图/背景图2_失去光.png",  "start": 4,  "end": 9,  "transition": "叠化", "transition_duration": 0.5 },
+    { "image": "00_原始素材/背景图/背景图3_水井房.png",  "start": 9,  "end": 14, "transition": "叠化", "transition_duration": 0.5 },
+    { "image": "00_原始素材/背景图/背景图4_森林之问.png","start": 14, "end": 25, "transition": "叠化", "transition_duration": 0.5 },
+    { "image": "00_原始素材/背景图/背景图.png",        "start": 25, "end": 32, "transition": "叠化", "transition_duration": 0.5 },
+    { "image": "00_原始素材/背景图/背景图5_三天.png",    "start": 32, "end": 45, "transition": "叠化", "transition_duration": 0.5 },
+    { "image": "00_原始素材/背景图/背景图6_黑暗落下.png","start": 45, "end": 48, "transition": "叠化", "transition_duration": 0.5 },
+    { "image": "00_原始素材/背景图/背景图.png",        "start": 48, "end": 56, "transition": "叠化", "transition_duration": 0.5 },
+    { "image": "00_原始素材/背景图/背景图7_下楼走一趟.png","start": 56, "end": 61, "transition": "", "transition_duration": 0 }
+  ],
+
+  "overlays": [
+    {
+      "name": "标题层",
+      "image": "00_原始素材/叠加层/标题层_1080x1920.png",
+      "start": 0,
+      "end": 61,
+      "_comment": "顶部书名+作者，全片常驻。已由 tools/gen_overlay.mjs 渲染成 1080×1920 透明 PNG"
+    },
+    {
+      "name": "书封层",
+      "image": "00_原始素材/叠加层/书封层_1080x1920.png",
+      "start": 0,
+      "end": 8,
+      "_comment": "左下角原书封面，只在开场两镜出现。想全片常驻把 end 改成 61"
+    }
+  ],
+
+  "audios": [
+    { "audio": "03_成片素材/音频/假如给我三天光明/01_开场白_今天要分享的是.wav", "start": 0, "end": 2,  "volume": 1.0 },
+    { "audio": "03_成片素材/音频/假如给我三天光明/02_书名_假如给我三天光明.wav", "start": 2, "end": 4,  "volume": 1.0 },
+    { "audio": "03_成片素材/音频/假如给我三天光明/03_正文_正文.wav",            "start": 4, "end": 61, "volume": 1.0 }
+  ],
+
+  "captions": {
+    "source": "timeline_json",
+    "path": "05_输出结果/语音时长/语音时长清单.json",
+    "text_cleanup": {
+      "strip_tail_punct": true,
+      "strip_book_marks": true
+    },
+    "style": {
+      "text_color": "#ffffff",
+      "border_color": "#000000",
+      "alignment": 1,
+      "font": "SourceHanSansCN-Bold",
+      "font_size": 20,
+      "transform_y": 620,
+      "bold": true,
+      "has_shadow": true
+    }
+  },
+
+  "output": {
+    "result": "05_输出结果/语音生成/draft_result.json"
+  }
+}
