@@ -1,0 +1,52 @@
+{
+  "sentences": [
+    {
+      "end_time": 1840,
+      "start_time": 480,
+      "text": "今天要分享的是。",
+      "words": [
+        {
+          "end_time": 720,
+          "start_time": 480,
+          "text": "今"
+        },
+        {
+          "end_time": 920,
+          "start_time": 720,
+          "text": "天"
+        },
+        {
+          "end_time": 1160,
+          "start_time": 920,
+          "text": "要"
+        },
+        {
+          "end_time": 1320,
+          "start_time": 1160,
+          "text": "分"
+        },
+        {
+          "end_time": 1480,
+          "start_time": 1320,
+          "text": "享"
+        },
+        {
+          "end_time": 1680,
+          "start_time": 1480,
+          "text": "的"
+        },
+        {
+          "end_time": 1840,
+          "start_time": 1680,
+          "text": "是"
+        },
+        {
+          "end_time": 1840,
+          "start_time": 1840,
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "text": "今天要分享的是。"
+}

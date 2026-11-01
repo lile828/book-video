@@ -1,0 +1,20 @@
+{
+  "book": "假如给我三天光明",
+  "model": "doubao-seedream-5-0-flash-260915",
+  "ratio": "3:4",
+  "generated_at": "2026-11-01 12:35:44",
+  "results": [
+    {
+      "name": "封面",
+      "path": "C:\\Users\\scott\\WorkBuddy\\书单视频\\00_原始素材\\封面\\封面.png",
+      "bytes": 6656603,
+      "source": "url"
+    },
+    {
+      "name": "背景图",
+      "path": "C:\\Users\\scott\\WorkBuddy\\书单视频\\00_原始素材\\背景图\\背景图.png",
+      "bytes": 7866491,
+      "source": "url"
+    }
+  ]
+}

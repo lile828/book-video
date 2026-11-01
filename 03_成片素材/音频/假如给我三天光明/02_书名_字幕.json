@@ -1,0 +1,57 @@
+{
+  "sentences": [
+    {
+      "end_time": 1600,
+      "start_time": 0,
+      "text": "假如给我三天光明。",
+      "words": [
+        {
+          "end_time": 80,
+          "start_time": 0,
+          "text": "假"
+        },
+        {
+          "end_time": 400,
+          "start_time": 200,
+          "text": "如"
+        },
+        {
+          "end_time": 680,
+          "start_time": 480,
+          "text": "给"
+        },
+        {
+          "end_time": 800,
+          "start_time": 680,
+          "text": "我"
+        },
+        {
+          "end_time": 960,
+          "start_time": 800,
+          "text": "三"
+        },
+        {
+          "end_time": 1200,
+          "start_time": 960,
+          "text": "天"
+        },
+        {
+          "end_time": 1400,
+          "start_time": 1240,
+          "text": "光"
+        },
+        {
+          "end_time": 1600,
+          "start_time": 1480,
+          "text": "明"
+        },
+        {
+          "end_time": 1600,
+          "start_time": 1600,
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "text": "假如给我三天光明。"
+}

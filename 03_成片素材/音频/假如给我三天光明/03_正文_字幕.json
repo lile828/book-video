@@ -1,0 +1,1494 @@
+{
+  "sentences": [
+    {
+      "end_time": 4040,
+      "start_time": 0,
+      "text": "海伦·凯勒十九个月大，失去光，也失去了声音。",
+      "words": [
+        {
+          "end_time": 40,
+          "start_time": 0,
+          "text": "海"
+        },
+        {
+          "end_time": 200,
+          "start_time": 120,
+          "text": "伦"
+        },
+        {
+          "end_time": 200,
+          "start_time": 200,
+          "text": "·"
+        },
+        {
+          "end_time": 440,
+          "start_time": 360,
+          "text": "凯"
+        },
+        {
+          "end_time": 640,
+          "start_time": 600,
+          "text": "勒"
+        },
+        {
+          "end_time": 960,
+          "start_time": 760,
+          "text": "十"
+        },
+        {
+          "end_time": 1080,
+          "start_time": 960,
+          "text": "九"
+        },
+        {
+          "end_time": 1200,
+          "start_time": 1080,
+          "text": "个"
+        },
+        {
+          "end_time": 1360,
+          "start_time": 1200,
+          "text": "月"
+        },
+        {
+          "end_time": 1680,
+          "start_time": 1360,
+          "text": "大"
+        },
+        {
+          "end_time": 1680,
+          "start_time": 1680,
+          "text": "，"
+        },
+        {
+          "end_time": 2240,
+          "start_time": 2000,
+          "text": "失"
+        },
+        {
+          "end_time": 2400,
+          "start_time": 2240,
+          "text": "去"
+        },
+        {
+          "end_time": 2760,
+          "start_time": 2440,
+          "text": "光"
+        },
+        {
+          "end_time": 2760,
+          "start_time": 2760,
+          "text": "，"
+        },
+        {
+          "end_time": 3120,
+          "start_time": 2880,
+          "text": "也"
+        },
+        {
+          "end_time": 3360,
+          "start_time": 3120,
+          "text": "失"
+        },
+        {
+          "end_time": 3480,
+          "start_time": 3360,
+          "text": "去"
+        },
+        {
+          "end_time": 3640,
+          "start_time": 3480,
+          "text": "了"
+        },
+        {
+          "end_time": 3800,
+          "start_time": 3640,
+          "text": "声"
+        },
+        {
+          "end_time": 4040,
+          "start_time": 3800,
+          "text": "音"
+        },
+        {
+          "end_time": 4040,
+          "start_time": 4040,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 9760,
+      "start_time": 4760,
+      "text": "七岁那年，老师蹲在水井边，在她手心，写下水的名字。",
+      "words": [
+        {
+          "end_time": 4960,
+          "start_time": 4760,
+          "text": "七"
+        },
+        {
+          "end_time": 5200,
+          "start_time": 4960,
+          "text": "岁"
+        },
+        {
+          "end_time": 5360,
+          "start_time": 5200,
+          "text": "那"
+        },
+        {
+          "end_time": 5640,
+          "start_time": 5360,
+          "text": "年"
+        },
+        {
+          "end_time": 5640,
+          "start_time": 5640,
+          "text": "，"
+        },
+        {
+          "end_time": 5920,
+          "start_time": 5680,
+          "text": "老"
+        },
+        {
+          "end_time": 6040,
+          "start_time": 5920,
+          "text": "师"
+        },
+        {
+          "end_time": 6360,
+          "start_time": 6160,
+          "text": "蹲"
+        },
+        {
+          "end_time": 6520,
+          "start_time": 6360,
+          "text": "在"
+        },
+        {
+          "end_time": 6760,
+          "start_time": 6520,
+          "text": "水"
+        },
+        {
+          "end_time": 6880,
+          "start_time": 6840,
+          "text": "井"
+        },
+        {
+          "end_time": 7280,
+          "start_time": 7040,
+          "text": "边"
+        },
+        {
+          "end_time": 7280,
+          "start_time": 7280,
+          "text": "，"
+        },
+        {
+          "end_time": 7640,
+          "start_time": 7440,
+          "text": "在"
+        },
+        {
+          "end_time": 7800,
+          "start_time": 7720,
+          "text": "她"
+        },
+        {
+          "end_time": 8120,
+          "start_time": 7920,
+          "text": "手"
+        },
+        {
+          "end_time": 8280,
+          "start_time": 8120,
+          "text": "心"
+        },
+        {
+          "end_time": 8280,
+          "start_time": 8280,
+          "text": "，"
+        },
+        {
+          "end_time": 8760,
+          "start_time": 8560,
+          "text": "写"
+        },
+        {
+          "end_time": 9000,
+          "start_time": 8760,
+          "text": "下"
+        },
+        {
+          "end_time": 9240,
+          "start_time": 9000,
+          "text": "水"
+        },
+        {
+          "end_time": 9440,
+          "start_time": 9240,
+          "text": "的"
+        },
+        {
+          "end_time": 9560,
+          "start_time": 9440,
+          "text": "名"
+        },
+        {
+          "end_time": 9760,
+          "start_time": 9560,
+          "text": "字"
+        },
+        {
+          "end_time": 9760,
+          "start_time": 9760,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 12920,
+      "start_time": 10280,
+      "text": "书里最动人的，不是她有多苦。",
+      "words": [
+        {
+          "end_time": 10360,
+          "start_time": 10280,
+          "text": "书"
+        },
+        {
+          "end_time": 10640,
+          "start_time": 10480,
+          "text": "里"
+        },
+        {
+          "end_time": 10840,
+          "start_time": 10640,
+          "text": "最"
+        },
+        {
+          "end_time": 11000,
+          "start_time": 10840,
+          "text": "动"
+        },
+        {
+          "end_time": 11360,
+          "start_time": 11120,
+          "text": "人"
+        },
+        {
+          "end_time": 11680,
+          "start_time": 11360,
+          "text": "的"
+        },
+        {
+          "end_time": 11680,
+          "start_time": 11680,
+          "text": "，"
+        },
+        {
+          "end_time": 11880,
+          "start_time": 11680,
+          "text": "不"
+        },
+        {
+          "end_time": 11960,
+          "start_time": 11880,
+          "text": "是"
+        },
+        {
+          "end_time": 12200,
+          "start_time": 12040,
+          "text": "她"
+        },
+        {
+          "end_time": 12400,
+          "start_time": 12240,
+          "text": "有"
+        },
+        {
+          "end_time": 12560,
+          "start_time": 12400,
+          "text": "多"
+        },
+        {
+          "end_time": 12920,
+          "start_time": 12560,
+          "text": "苦"
+        },
+        {
+          "end_time": 12920,
+          "start_time": 12920,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 17880,
+      "start_time": 13320,
+      "text": "是她问看得见的朋友：‘你在森林里走了一小时，看到了什么？",
+      "words": [
+        {
+          "end_time": 13600,
+          "start_time": 13320,
+          "text": "是"
+        },
+        {
+          "end_time": 13800,
+          "start_time": 13640,
+          "text": "她"
+        },
+        {
+          "end_time": 14040,
+          "start_time": 13800,
+          "text": "问"
+        },
+        {
+          "end_time": 14280,
+          "start_time": 14040,
+          "text": "看"
+        },
+        {
+          "end_time": 14480,
+          "start_time": 14280,
+          "text": "得"
+        },
+        {
+          "end_time": 14640,
+          "start_time": 14480,
+          "text": "见"
+        },
+        {
+          "end_time": 14800,
+          "start_time": 14640,
+          "text": "的"
+        },
+        {
+          "end_time": 14960,
+          "start_time": 14800,
+          "text": "朋"
+        },
+        {
+          "end_time": 15080,
+          "start_time": 14960,
+          "text": "友"
+        },
+        {
+          "end_time": 15080,
+          "start_time": 15080,
+          "text": "："
+        },
+        {
+          "end_time": 15080,
+          "start_time": 15080,
+          "text": "‘"
+        },
+        {
+          "end_time": 15360,
+          "start_time": 15160,
+          "text": "你"
+        },
+        {
+          "end_time": 15520,
+          "start_time": 15360,
+          "text": "在"
+        },
+        {
+          "end_time": 15760,
+          "start_time": 15520,
+          "text": "森"
+        },
+        {
+          "end_time": 15920,
+          "start_time": 15760,
+          "text": "林"
+        },
+        {
+          "end_time": 16120,
+          "start_time": 15920,
+          "text": "里"
+        },
+        {
+          "end_time": 16320,
+          "start_time": 16120,
+          "text": "走"
+        },
+        {
+          "end_time": 16440,
+          "start_time": 16320,
+          "text": "了"
+        },
+        {
+          "end_time": 16560,
+          "start_time": 16440,
+          "text": "一"
+        },
+        {
+          "end_time": 16720,
+          "start_time": 16560,
+          "text": "小"
+        },
+        {
+          "end_time": 16960,
+          "start_time": 16720,
+          "text": "时"
+        },
+        {
+          "end_time": 16960,
+          "start_time": 16960,
+          "text": "，"
+        },
+        {
+          "end_time": 17280,
+          "start_time": 17080,
+          "text": "看"
+        },
+        {
+          "end_time": 17440,
+          "start_time": 17280,
+          "text": "到"
+        },
+        {
+          "end_time": 17600,
+          "start_time": 17440,
+          "text": "了"
+        },
+        {
+          "end_time": 17720,
+          "start_time": 17600,
+          "text": "什"
+        },
+        {
+          "end_time": 17880,
+          "start_time": 17720,
+          "text": "么"
+        },
+        {
+          "end_time": 17880,
+          "start_time": 17880,
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "end_time": 20520,
+      "start_time": 17880,
+      "text": "’朋友说，没什么特别的。",
+      "words": [
+        {
+          "end_time": 17880,
+          "start_time": 17880,
+          "text": "’"
+        },
+        {
+          "end_time": 18840,
+          "start_time": 18680,
+          "text": "朋"
+        },
+        {
+          "end_time": 19000,
+          "start_time": 18840,
+          "text": "友"
+        },
+        {
+          "end_time": 19360,
+          "start_time": 19000,
+          "text": "说"
+        },
+        {
+          "end_time": 19360,
+          "start_time": 19360,
+          "text": "，"
+        },
+        {
+          "end_time": 19760,
+          "start_time": 19520,
+          "text": "没"
+        },
+        {
+          "end_time": 19840,
+          "start_time": 19760,
+          "text": "什"
+        },
+        {
+          "end_time": 19920,
+          "start_time": 19840,
+          "text": "么"
+        },
+        {
+          "end_time": 20080,
+          "start_time": 19920,
+          "text": "特"
+        },
+        {
+          "end_time": 20240,
+          "start_time": 20080,
+          "text": "别"
+        },
+        {
+          "end_time": 20520,
+          "start_time": 20240,
+          "text": "的"
+        },
+        {
+          "end_time": 20520,
+          "start_time": 20520,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 24800,
+      "start_time": 20880,
+      "text": "一个看不见的人，只靠一双手，找到了几百样可爱的东西。",
+      "words": [
+        {
+          "end_time": 21000,
+          "start_time": 20880,
+          "text": "一"
+        },
+        {
+          "end_time": 21120,
+          "start_time": 21000,
+          "text": "个"
+        },
+        {
+          "end_time": 21320,
+          "start_time": 21120,
+          "text": "看"
+        },
+        {
+          "end_time": 21440,
+          "start_time": 21320,
+          "text": "不"
+        },
+        {
+          "end_time": 21600,
+          "start_time": 21440,
+          "text": "见"
+        },
+        {
+          "end_time": 21760,
+          "start_time": 21600,
+          "text": "的"
+        },
+        {
+          "end_time": 22000,
+          "start_time": 21760,
+          "text": "人"
+        },
+        {
+          "end_time": 22000,
+          "start_time": 22000,
+          "text": "，"
+        },
+        {
+          "end_time": 22200,
+          "start_time": 22000,
+          "text": "只"
+        },
+        {
+          "end_time": 22480,
+          "start_time": 22240,
+          "text": "靠"
+        },
+        {
+          "end_time": 22640,
+          "start_time": 22480,
+          "text": "一"
+        },
+        {
+          "end_time": 22800,
+          "start_time": 22640,
+          "text": "双"
+        },
+        {
+          "end_time": 23080,
+          "start_time": 22800,
+          "text": "手"
+        },
+        {
+          "end_time": 23080,
+          "start_time": 23080,
+          "text": "，"
+        },
+        {
+          "end_time": 23320,
+          "start_time": 23160,
+          "text": "找"
+        },
+        {
+          "end_time": 23480,
+          "start_time": 23320,
+          "text": "到"
+        },
+        {
+          "end_time": 23600,
+          "start_time": 23480,
+          "text": "了"
+        },
+        {
+          "end_time": 23720,
+          "start_time": 23600,
+          "text": "几"
+        },
+        {
+          "end_time": 23880,
+          "start_time": 23720,
+          "text": "百"
+        },
+        {
+          "end_time": 24120,
+          "start_time": 23880,
+          "text": "样"
+        },
+        {
+          "end_time": 24240,
+          "start_time": 24120,
+          "text": "可"
+        },
+        {
+          "end_time": 24360,
+          "start_time": 24240,
+          "text": "爱"
+        },
+        {
+          "end_time": 24480,
+          "start_time": 24360,
+          "text": "的"
+        },
+        {
+          "end_time": 24640,
+          "start_time": 24480,
+          "text": "东"
+        },
+        {
+          "end_time": 24800,
+          "start_time": 24640,
+          "text": "西"
+        },
+        {
+          "end_time": 24800,
+          "start_time": 24800,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 27520,
+      "start_time": 25200,
+      "text": "她假想自己，只剩三天光明。",
+      "words": [
+        {
+          "end_time": 25360,
+          "start_time": 25200,
+          "text": "她"
+        },
+        {
+          "end_time": 25600,
+          "start_time": 25400,
+          "text": "假"
+        },
+        {
+          "end_time": 25880,
+          "start_time": 25720,
+          "text": "想"
+        },
+        {
+          "end_time": 26080,
+          "start_time": 25960,
+          "text": "自"
+        },
+        {
+          "end_time": 26280,
+          "start_time": 26080,
+          "text": "己"
+        },
+        {
+          "end_time": 26280,
+          "start_time": 26280,
+          "text": "，"
+        },
+        {
+          "end_time": 26520,
+          "start_time": 26280,
+          "text": "只"
+        },
+        {
+          "end_time": 26720,
+          "start_time": 26520,
+          "text": "剩"
+        },
+        {
+          "end_time": 26920,
+          "start_time": 26760,
+          "text": "三"
+        },
+        {
+          "end_time": 27080,
+          "start_time": 26920,
+          "text": "天"
+        },
+        {
+          "end_time": 27320,
+          "start_time": 27080,
+          "text": "光"
+        },
+        {
+          "end_time": 27520,
+          "start_time": 27360,
+          "text": "明"
+        },
+        {
+          "end_time": 27520,
+          "start_time": 27520,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 30600,
+      "start_time": 28080,
+      "text": "第一天，看清每一张对她好过的脸。",
+      "words": [
+        {
+          "end_time": 28240,
+          "start_time": 28080,
+          "text": "第"
+        },
+        {
+          "end_time": 28320,
+          "start_time": 28240,
+          "text": "一"
+        },
+        {
+          "end_time": 28520,
+          "start_time": 28320,
+          "text": "天"
+        },
+        {
+          "end_time": 28520,
+          "start_time": 28520,
+          "text": "，"
+        },
+        {
+          "end_time": 28800,
+          "start_time": 28520,
+          "text": "看"
+        },
+        {
+          "end_time": 28920,
+          "start_time": 28800,
+          "text": "清"
+        },
+        {
+          "end_time": 29200,
+          "start_time": 29040,
+          "text": "每"
+        },
+        {
+          "end_time": 29320,
+          "start_time": 29200,
+          "text": "一"
+        },
+        {
+          "end_time": 29480,
+          "start_time": 29320,
+          "text": "张"
+        },
+        {
+          "end_time": 29680,
+          "start_time": 29480,
+          "text": "对"
+        },
+        {
+          "end_time": 29840,
+          "start_time": 29680,
+          "text": "她"
+        },
+        {
+          "end_time": 30040,
+          "start_time": 29840,
+          "text": "好"
+        },
+        {
+          "end_time": 30200,
+          "start_time": 30040,
+          "text": "过"
+        },
+        {
+          "end_time": 30320,
+          "start_time": 30200,
+          "text": "的"
+        },
+        {
+          "end_time": 30600,
+          "start_time": 30320,
+          "text": "脸"
+        },
+        {
+          "end_time": 30600,
+          "start_time": 30600,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 34200,
+      "start_time": 31080,
+      "text": "第二天，去看黎明，去看那些她摸过的雕像。",
+      "words": [
+        {
+          "end_time": 31160,
+          "start_time": 31080,
+          "text": "第"
+        },
+        {
+          "end_time": 31320,
+          "start_time": 31160,
+          "text": "二"
+        },
+        {
+          "end_time": 31480,
+          "start_time": 31320,
+          "text": "天"
+        },
+        {
+          "end_time": 31480,
+          "start_time": 31480,
+          "text": "，"
+        },
+        {
+          "end_time": 31720,
+          "start_time": 31480,
+          "text": "去"
+        },
+        {
+          "end_time": 31920,
+          "start_time": 31720,
+          "text": "看"
+        },
+        {
+          "end_time": 32120,
+          "start_time": 32080,
+          "text": "黎"
+        },
+        {
+          "end_time": 32360,
+          "start_time": 32320,
+          "text": "明"
+        },
+        {
+          "end_time": 32360,
+          "start_time": 32360,
+          "text": "，"
+        },
+        {
+          "end_time": 32760,
+          "start_time": 32560,
+          "text": "去"
+        },
+        {
+          "end_time": 32920,
+          "start_time": 32760,
+          "text": "看"
+        },
+        {
+          "end_time": 33040,
+          "start_time": 32920,
+          "text": "那"
+        },
+        {
+          "end_time": 33160,
+          "start_time": 33040,
+          "text": "些"
+        },
+        {
+          "end_time": 33320,
+          "start_time": 33200,
+          "text": "她"
+        },
+        {
+          "end_time": 33560,
+          "start_time": 33360,
+          "text": "摸"
+        },
+        {
+          "end_time": 33720,
+          "start_time": 33560,
+          "text": "过"
+        },
+        {
+          "end_time": 33880,
+          "start_time": 33720,
+          "text": "的"
+        },
+        {
+          "end_time": 33960,
+          "start_time": 33880,
+          "text": "雕"
+        },
+        {
+          "end_time": 34200,
+          "start_time": 34160,
+          "text": "像"
+        },
+        {
+          "end_time": 34200,
+          "start_time": 34200,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 37400,
+      "start_time": 34720,
+      "text": "第三天，看人们上班，看孩子奔跑。",
+      "words": [
+        {
+          "end_time": 34880,
+          "start_time": 34720,
+          "text": "第"
+        },
+        {
+          "end_time": 35000,
+          "start_time": 34880,
+          "text": "三"
+        },
+        {
+          "end_time": 35280,
+          "start_time": 35000,
+          "text": "天"
+        },
+        {
+          "end_time": 35280,
+          "start_time": 35280,
+          "text": "，"
+        },
+        {
+          "end_time": 35520,
+          "start_time": 35280,
+          "text": "看"
+        },
+        {
+          "end_time": 35720,
+          "start_time": 35520,
+          "text": "人"
+        },
+        {
+          "end_time": 35840,
+          "start_time": 35720,
+          "text": "们"
+        },
+        {
+          "end_time": 36000,
+          "start_time": 35840,
+          "text": "上"
+        },
+        {
+          "end_time": 36240,
+          "start_time": 36000,
+          "text": "班"
+        },
+        {
+          "end_time": 36240,
+          "start_time": 36240,
+          "text": "，"
+        },
+        {
+          "end_time": 36520,
+          "start_time": 36280,
+          "text": "看"
+        },
+        {
+          "end_time": 36720,
+          "start_time": 36520,
+          "text": "孩"
+        },
+        {
+          "end_time": 36840,
+          "start_time": 36720,
+          "text": "子"
+        },
+        {
+          "end_time": 37080,
+          "start_time": 36880,
+          "text": "奔"
+        },
+        {
+          "end_time": 37400,
+          "start_time": 37080,
+          "text": "跑"
+        },
+        {
+          "end_time": 37400,
+          "start_time": 37400,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 40480,
+      "start_time": 37800,
+      "text": "三天过完，黑暗重新落下。",
+      "words": [
+        {
+          "end_time": 38000,
+          "start_time": 37800,
+          "text": "三"
+        },
+        {
+          "end_time": 38200,
+          "start_time": 38000,
+          "text": "天"
+        },
+        {
+          "end_time": 38480,
+          "start_time": 38200,
+          "text": "过"
+        },
+        {
+          "end_time": 38760,
+          "start_time": 38480,
+          "text": "完"
+        },
+        {
+          "end_time": 38760,
+          "start_time": 38760,
+          "text": "，"
+        },
+        {
+          "end_time": 39120,
+          "start_time": 38840,
+          "text": "黑"
+        },
+        {
+          "end_time": 39360,
+          "start_time": 39120,
+          "text": "暗"
+        },
+        {
+          "end_time": 39720,
+          "start_time": 39480,
+          "text": "重"
+        },
+        {
+          "end_time": 39880,
+          "start_time": 39720,
+          "text": "新"
+        },
+        {
+          "end_time": 40160,
+          "start_time": 39920,
+          "text": "落"
+        },
+        {
+          "end_time": 40480,
+          "start_time": 40160,
+          "text": "下"
+        },
+        {
+          "end_time": 40480,
+          "start_time": 40480,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 42000,
+      "start_time": 41120,
+      "text": "她没有遗憾。",
+      "words": [
+        {
+          "end_time": 41280,
+          "start_time": 41120,
+          "text": "她"
+        },
+        {
+          "end_time": 41440,
+          "start_time": 41280,
+          "text": "没"
+        },
+        {
+          "end_time": 41560,
+          "start_time": 41440,
+          "text": "有"
+        },
+        {
+          "end_time": 41720,
+          "start_time": 41560,
+          "text": "遗"
+        },
+        {
+          "end_time": 42000,
+          "start_time": 41720,
+          "text": "憾"
+        },
+        {
+          "end_time": 42000,
+          "start_time": 42000,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 45400,
+      "start_time": 42560,
+      "text": "我们和她最大的不同，是我们有一辈子。",
+      "words": [
+        {
+          "end_time": 42720,
+          "start_time": 42560,
+          "text": "我"
+        },
+        {
+          "end_time": 42800,
+          "start_time": 42720,
+          "text": "们"
+        },
+        {
+          "end_time": 43000,
+          "start_time": 42800,
+          "text": "和"
+        },
+        {
+          "end_time": 43200,
+          "start_time": 43040,
+          "text": "她"
+        },
+        {
+          "end_time": 43400,
+          "start_time": 43200,
+          "text": "最"
+        },
+        {
+          "end_time": 43520,
+          "start_time": 43400,
+          "text": "大"
+        },
+        {
+          "end_time": 43720,
+          "start_time": 43520,
+          "text": "的"
+        },
+        {
+          "end_time": 43840,
+          "start_time": 43720,
+          "text": "不"
+        },
+        {
+          "end_time": 44080,
+          "start_time": 43840,
+          "text": "同"
+        },
+        {
+          "end_time": 44080,
+          "start_time": 44080,
+          "text": "，"
+        },
+        {
+          "end_time": 44480,
+          "start_time": 44160,
+          "text": "是"
+        },
+        {
+          "end_time": 44600,
+          "start_time": 44480,
+          "text": "我"
+        },
+        {
+          "end_time": 44680,
+          "start_time": 44600,
+          "text": "们"
+        },
+        {
+          "end_time": 44880,
+          "start_time": 44680,
+          "text": "有"
+        },
+        {
+          "end_time": 45040,
+          "start_time": 44880,
+          "text": "一"
+        },
+        {
+          "end_time": 45200,
+          "start_time": 45040,
+          "text": "辈"
+        },
+        {
+          "end_time": 45400,
+          "start_time": 45200,
+          "text": "子"
+        },
+        {
+          "end_time": 45400,
+          "start_time": 45400,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 49360,
+      "start_time": 46240,
+      "text": "一辈子可以看日出，可我们从不抬头。",
+      "words": [
+        {
+          "end_time": 46400,
+          "start_time": 46240,
+          "text": "一"
+        },
+        {
+          "end_time": 46560,
+          "start_time": 46400,
+          "text": "辈"
+        },
+        {
+          "end_time": 46720,
+          "start_time": 46560,
+          "text": "子"
+        },
+        {
+          "end_time": 46800,
+          "start_time": 46720,
+          "text": "可"
+        },
+        {
+          "end_time": 46920,
+          "start_time": 46800,
+          "text": "以"
+        },
+        {
+          "end_time": 47200,
+          "start_time": 46920,
+          "text": "看"
+        },
+        {
+          "end_time": 47440,
+          "start_time": 47200,
+          "text": "日"
+        },
+        {
+          "end_time": 47720,
+          "start_time": 47440,
+          "text": "出"
+        },
+        {
+          "end_time": 47720,
+          "start_time": 47720,
+          "text": "，"
+        },
+        {
+          "end_time": 48200,
+          "start_time": 47960,
+          "text": "可"
+        },
+        {
+          "end_time": 48320,
+          "start_time": 48200,
+          "text": "我"
+        },
+        {
+          "end_time": 48400,
+          "start_time": 48320,
+          "text": "们"
+        },
+        {
+          "end_time": 48640,
+          "start_time": 48400,
+          "text": "从"
+        },
+        {
+          "end_time": 48840,
+          "start_time": 48640,
+          "text": "不"
+        },
+        {
+          "end_time": 49080,
+          "start_time": 48840,
+          "text": "抬"
+        },
+        {
+          "end_time": 49360,
+          "start_time": 49080,
+          "text": "头"
+        },
+        {
+          "end_time": 49360,
+          "start_time": 49360,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 50960,
+      "start_time": 49840,
+      "text": "这本书很薄。",
+      "words": [
+        {
+          "end_time": 50080,
+          "start_time": 49840,
+          "text": "这"
+        },
+        {
+          "end_time": 50280,
+          "start_time": 50080,
+          "text": "本"
+        },
+        {
+          "end_time": 50480,
+          "start_time": 50280,
+          "text": "书"
+        },
+        {
+          "end_time": 50720,
+          "start_time": 50520,
+          "text": "很"
+        },
+        {
+          "end_time": 50960,
+          "start_time": 50720,
+          "text": "薄"
+        },
+        {
+          "end_time": 50960,
+          "start_time": 50960,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 53720,
+      "start_time": 51800,
+      "text": "读完你会想下楼走一趟。",
+      "words": [
+        {
+          "end_time": 51920,
+          "start_time": 51800,
+          "text": "读"
+        },
+        {
+          "end_time": 52200,
+          "start_time": 52080,
+          "text": "完"
+        },
+        {
+          "end_time": 52440,
+          "start_time": 52280,
+          "text": "你"
+        },
+        {
+          "end_time": 52600,
+          "start_time": 52440,
+          "text": "会"
+        },
+        {
+          "end_time": 52800,
+          "start_time": 52600,
+          "text": "想"
+        },
+        {
+          "end_time": 53000,
+          "start_time": 52800,
+          "text": "下"
+        },
+        {
+          "end_time": 53200,
+          "start_time": 53000,
+          "text": "楼"
+        },
+        {
+          "end_time": 53400,
+          "start_time": 53200,
+          "text": "走"
+        },
+        {
+          "end_time": 53560,
+          "start_time": 53400,
+          "text": "一"
+        },
+        {
+          "end_time": 53720,
+          "start_time": 53560,
+          "text": "趟"
+        },
+        {
+          "end_time": 53720,
+          "start_time": 53720,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 56720,
+      "start_time": 54440,
+      "text": "就看看树叶，是什么颜色。",
+      "words": [
+        {
+          "end_time": 54680,
+          "start_time": 54440,
+          "text": "就"
+        },
+        {
+          "end_time": 54760,
+          "start_time": 54680,
+          "text": "看"
+        },
+        {
+          "end_time": 55000,
+          "start_time": 54840,
+          "text": "看"
+        },
+        {
+          "end_time": 55200,
+          "start_time": 55120,
+          "text": "树"
+        },
+        {
+          "end_time": 55520,
+          "start_time": 55400,
+          "text": "叶"
+        },
+        {
+          "end_time": 55520,
+          "start_time": 55520,
+          "text": "，"
+        },
+        {
+          "end_time": 56160,
+          "start_time": 56000,
+          "text": "是"
+        },
+        {
+          "end_time": 56320,
+          "start_time": 56160,
+          "text": "什"
+        },
+        {
+          "end_time": 56400,
+          "start_time": 56320,
+          "text": "么"
+        },
+        {
+          "end_time": 56560,
+          "start_time": 56400,
+          "text": "颜"
+        },
+        {
+          "end_time": 56720,
+          "start_time": 56560,
+          "text": "色"
+        },
+        {
+          "end_time": 56720,
+          "start_time": 56720,
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "text": "海伦·凯勒十九个月大，失去光，也失去了声音。七岁那年，老师蹲在水井边，在她手心，写下水的名字。书里最动人的，不是她有多苦。是她问看得见的朋友：‘你在森林里走了一小时，看到了什么？’朋友说，没什么特别的。一个看不见的人，只靠一双手，找到了几百样可爱的东西。她假想自己，只剩三天光明。第一天，看清每一张对她好过的脸。第二天，去看黎明，去看那些她摸过的雕像。第三天，看人们上班，看孩子奔跑。三天过完，黑暗重新落下。她没有遗憾。我们和她最大的不同，是我们有一辈子。一辈子可以看日出，可我们从不抬头。这本书很薄。读完你会想下楼走一趟。就看看树叶，是什么颜色。"
+}

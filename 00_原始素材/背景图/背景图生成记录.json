@@ -1,0 +1,39 @@
+{
+  "book": "假如给我三天光明",
+  "model": "doubao-seedream-5-0-flash-260915",
+  "ratio": "3:4",
+  "size": "1776x2368",
+  "generated_at": "2026-11-01 12:45:25",
+  "results": [
+    {
+      "name": "背景图2_失去光",
+      "path": "C:\\Users\\scott\\WorkBuddy\\书单视频\\00_原始素材\\背景图\\背景图2_失去光.png",
+      "bytes": 6835667
+    },
+    {
+      "name": "背景图3_水井房",
+      "path": "C:\\Users\\scott\\WorkBuddy\\书单视频\\00_原始素材\\背景图\\背景图3_水井房.png",
+      "bytes": 7574428
+    },
+    {
+      "name": "背景图4_森林之问",
+      "path": "C:\\Users\\scott\\WorkBuddy\\书单视频\\00_原始素材\\背景图\\背景图4_森林之问.png",
+      "bytes": 8309101
+    },
+    {
+      "name": "背景图5_三天",
+      "path": "C:\\Users\\scott\\WorkBuddy\\书单视频\\00_原始素材\\背景图\\背景图5_三天.png",
+      "bytes": 6596334
+    },
+    {
+      "name": "背景图6_黑暗落下",
+      "path": "C:\\Users\\scott\\WorkBuddy\\书单视频\\00_原始素材\\背景图\\背景图6_黑暗落下.png",
+      "bytes": 6206053
+    },
+    {
+      "name": "背景图7_下楼走一趟",
+      "path": "C:\\Users\\scott\\WorkBuddy\\书单视频\\00_原始素材\\背景图\\背景图7_下楼走一趟.png",
+      "bytes": 7410821
+    }
+  ]
+}
