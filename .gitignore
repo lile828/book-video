@@ -4,3 +4,8 @@
 # 系统文件
 .DS_Store
 Thumbs.db
+
+# 密钥配置文件（绝不推送到远程）
+.env
+.env.local
+secrets.json
