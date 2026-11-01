@@ -1,0 +1,108 @@
+{
+  "book": "自在独行",
+  "author": "贾平凹",
+  "draft_name": "自在独行-书单视频",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "asset_base": "https://raw.githubusercontent.com/lile828/book-video/main/%E8%87%AA%E5%9C%A8%E7%8B%AC%E8%A1%8C/",
+  "shots": [
+    {
+      "image": "00_原始素材/封面/封面.png",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "image": "00_原始素材/背景图/背景图1.png",
+      "start": 4,
+      "end": 11,
+      "transition": "叠化"
+    },
+    {
+      "image": "00_原始素材/背景图/背景图2.png",
+      "start": 11,
+      "end": 18,
+      "transition": "叠化"
+    },
+    {
+      "image": "00_原始素材/背景图/背景图3.png",
+      "start": 18,
+      "end": 26,
+      "transition": "叠化"
+    },
+    {
+      "image": "00_原始素材/背景图/背景图4.png",
+      "start": 26,
+      "end": 33,
+      "transition": "叠化"
+    },
+    {
+      "image": "00_原始素材/背景图/背景图5.png",
+      "start": 33,
+      "end": 40,
+      "transition": "叠化"
+    },
+    {
+      "image": "00_原始素材/背景图/背景图6.png",
+      "start": 40,
+      "end": 48,
+      "transition": "叠化"
+    },
+    {
+      "image": "00_原始素材/背景图/背景图7.png",
+      "start": 48,
+      "end": 57,
+      "transition": "叠化"
+    }
+  ],
+  "overlays": [
+    {
+      "image": "00_原始素材/叠加层/标题层_1080x1920.png",
+      "start": 0,
+      "end": 57,
+      "name": "标题层（书名+作者）"
+    },
+    {
+      "image": "00_原始素材/叠加层/书封层_1080x1920.png",
+      "start": 0,
+      "end": 8,
+      "name": "书封层（左下角）"
+    }
+  ],
+  "audios": [
+    {
+      "audio": "03_成片素材/音频/自在独行/01_开场白.wav",
+      "start": 0,
+      "end": 2
+    },
+    {
+      "audio": "03_成片素材/音频/自在独行/02_书名.wav",
+      "start": 2,
+      "end": 4
+    },
+    {
+      "audio": "03_成片素材/音频/自在独行/03_正文.wav",
+      "start": 4,
+      "end": 57
+    }
+  ],
+  "captions": {
+    "source": "timeline_json",
+    "path": "05_输出结果/语音时长/语音时长清单.json",
+    "cleanup": true,
+    "style": {
+      "text_color": "#ffffff",
+      "border_color": "#000000",
+      "alignment": 1,
+      "font": "SourceHanSansCN-Bold",
+      "font_size": 20,
+      "transform_y": -1240,
+      "bold": true,
+      "has_shadow": true
+    }
+  },
+  "output": {
+    "draft_result": "05_输出结果/草稿/draft_result.json"
+  }
+}
