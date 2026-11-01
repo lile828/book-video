@@ -1,52 +1,62 @@
 {
   "sentences": [
     {
-      "end_time": 1960,
-      "start_time": 0,
-      "text": "自在独行自在独行",
+      "end_time": 2960,
+      "start_time": 760,
+      "text": "贾平凹《自在独行》。",
       "words": [
         {
-          "end_time": 440,
-          "start_time": 0,
+          "end_time": 800,
+          "start_time": 760,
+          "text": "贾"
+        },
+        {
+          "end_time": 1200,
+          "start_time": 1040,
+          "text": "平"
+        },
+        {
+          "end_time": 1520,
+          "start_time": 1360,
+          "text": "凹"
+        },
+        {
+          "end_time": 1520,
+          "start_time": 1520,
+          "text": "《"
+        },
+        {
+          "end_time": 2280,
+          "start_time": 2120,
           "text": "自"
         },
         {
-          "end_time": 600,
-          "start_time": 520,
+          "end_time": 2520,
+          "start_time": 2360,
           "text": "在"
         },
         {
-          "end_time": 1040,
-          "start_time": 920,
+          "end_time": 2720,
+          "start_time": 2680,
           "text": "独"
         },
         {
-          "end_time": 1400,
-          "start_time": 1160,
+          "end_time": 2960,
+          "start_time": 2880,
           "text": "行"
         },
         {
-          "end_time": 1720,
-          "start_time": 1640,
-          "text": "自"
+          "end_time": 2960,
+          "start_time": 2960,
+          "text": "》"
         },
         {
-          "end_time": 1800,
-          "start_time": 1760,
-          "text": "在"
-        },
-        {
-          "end_time": 1920,
-          "start_time": 1800,
-          "text": "独"
-        },
-        {
-          "end_time": 1960,
-          "start_time": 1920,
-          "text": "行"
+          "end_time": 2960,
+          "start_time": 2960,
+          "text": "。"
         }
       ]
     }
   ],
-  "text": "自在独行自在独行"
+  "text": "贾平凹《自在独行》。"
 }

@@ -1,33 +1,152 @@
 {
   "book": "自在独行",
-  "total_duration_sec": 55.51,
-  "timeline_method": "逐行合成（字幕边界=音频边界，零误差）",
+  "model": "seed-audio-1.0",
+  "speaker": "zh_male_shenyeboke_uranus_bigtts",
+  "generated_at": "2026-11-01 23:25:27",
   "segments": [
     {
       "id": "01_开场白",
-      "title": "今天要分享的是",
+      "title": "金句钩子",
       "file": "01_开场白.wav",
       "path": "03_成片素材/音频/自在独行/01_开场白.wav",
       "format": "wav",
       "sample_rate": 40000,
       "channels": 2,
-      "char_count": 7,
-      "duration_sec": 1.25,
-      "duration_source": "逐行合成（文件实测）",
-      "speech_rate": 5.6,
+      "char_count": 18,
+      "duration_sec": 6.0,
+      "api_duration_sec": 6,
+      "original_duration_sec": 6,
+      "duration_source": "文件实测",
+      "expect_sec": 6.0,
+      "logid": "20261101232419FB89D12E443B8F2DFA17",
+      "url_expire_note": "接口返回的 url 有效期 2 小时",
+      "subtitle": {
+        "sentences": [
+          {
+            "end_time": 5920,
+            "start_time": 1560,
+            "text": "我比你想象的深情，也比你以为的冷漠。",
+            "words": [
+              {
+                "end_time": 1880,
+                "start_time": 1560,
+                "text": "我"
+              },
+              {
+                "end_time": 2120,
+                "start_time": 1880,
+                "text": "比"
+              },
+              {
+                "end_time": 2240,
+                "start_time": 2120,
+                "text": "你"
+              },
+              {
+                "end_time": 2520,
+                "start_time": 2240,
+                "text": "想"
+              },
+              {
+                "end_time": 2600,
+                "start_time": 2520,
+                "text": "象"
+              },
+              {
+                "end_time": 2920,
+                "start_time": 2680,
+                "text": "的"
+              },
+              {
+                "end_time": 3040,
+                "start_time": 2920,
+                "text": "深"
+              },
+              {
+                "end_time": 3320,
+                "start_time": 3120,
+                "text": "情"
+              },
+              {
+                "end_time": 3320,
+                "start_time": 3320,
+                "text": "，"
+              },
+              {
+                "end_time": 4320,
+                "start_time": 4040,
+                "text": "也"
+              },
+              {
+                "end_time": 4560,
+                "start_time": 4320,
+                "text": "比"
+              },
+              {
+                "end_time": 4880,
+                "start_time": 4560,
+                "text": "你"
+              },
+              {
+                "end_time": 5200,
+                "start_time": 4960,
+                "text": "以"
+              },
+              {
+                "end_time": 5360,
+                "start_time": 5200,
+                "text": "为"
+              },
+              {
+                "end_time": 5560,
+                "start_time": 5360,
+                "text": "的"
+              },
+              {
+                "end_time": 5760,
+                "start_time": 5560,
+                "text": "冷"
+              },
+              {
+                "end_time": 5920,
+                "start_time": 5760,
+                "text": "漠"
+              },
+              {
+                "end_time": 5920,
+                "start_time": 5920,
+                "text": "。"
+              }
+            ]
+          }
+        ],
+        "text": "我比你想象的深情，也比你以为的冷漠。"
+      },
+      "subtitle_file": "01_开场白_字幕.json",
       "lines": [
         {
           "seq": 1,
-          "text": "今天要分享的是；",
-          "start_sec": 0.0,
-          "end_sec": 1.1,
-          "abs_start_sec": 0.0,
-          "abs_end_sec": 1.1,
-          "source": "逐行合成",
-          "char_count": 7,
-          "char_per_sec": 6.36
+          "text": "我比你想象的深情，",
+          "start_sec": 1.56,
+          "end_sec": 3.32,
+          "abs_start_sec": 1.56,
+          "abs_end_sec": 3.32,
+          "source": "接口词级时间戳",
+          "note": ""
+        },
+        {
+          "seq": 2,
+          "text": "也比你以为的冷漠。",
+          "start_sec": 4.04,
+          "end_sec": 5.92,
+          "abs_start_sec": 4.04,
+          "abs_end_sec": 5.92,
+          "source": "接口词级时间戳",
+          "note": ""
         }
-      ]
+      ],
+      "abs_start_sec": 0.0,
+      "abs_end_sec": 6.0
     },
     {
       "id": "02_书名",
@@ -37,23 +156,91 @@
       "format": "wav",
       "sample_rate": 40000,
       "channels": 2,
-      "char_count": 4,
-      "duration_sec": 1.055,
-      "duration_source": "逐行合成（文件实测）",
-      "speech_rate": 3.79,
+      "char_count": 9,
+      "duration_sec": 3.0,
+      "api_duration_sec": 3,
+      "original_duration_sec": 3,
+      "duration_source": "文件实测",
+      "expect_sec": 3.0,
+      "logid": "202611012324388CFBC7874AC4B2422884",
+      "url_expire_note": "接口返回的 url 有效期 2 小时",
+      "subtitle": {
+        "sentences": [
+          {
+            "end_time": 2960,
+            "start_time": 760,
+            "text": "贾平凹《自在独行》。",
+            "words": [
+              {
+                "end_time": 800,
+                "start_time": 760,
+                "text": "贾"
+              },
+              {
+                "end_time": 1200,
+                "start_time": 1040,
+                "text": "平"
+              },
+              {
+                "end_time": 1520,
+                "start_time": 1360,
+                "text": "凹"
+              },
+              {
+                "end_time": 1520,
+                "start_time": 1520,
+                "text": "《"
+              },
+              {
+                "end_time": 2280,
+                "start_time": 2120,
+                "text": "自"
+              },
+              {
+                "end_time": 2520,
+                "start_time": 2360,
+                "text": "在"
+              },
+              {
+                "end_time": 2720,
+                "start_time": 2680,
+                "text": "独"
+              },
+              {
+                "end_time": 2960,
+                "start_time": 2880,
+                "text": "行"
+              },
+              {
+                "end_time": 2960,
+                "start_time": 2960,
+                "text": "》"
+              },
+              {
+                "end_time": 2960,
+                "start_time": 2960,
+                "text": "。"
+              }
+            ]
+          }
+        ],
+        "text": "贾平凹《自在独行》。"
+      },
+      "subtitle_file": "02_书名_字幕.json",
       "lines": [
         {
           "seq": 1,
-          "text": "《自在独行》",
-          "start_sec": 0.0,
-          "end_sec": 0.905,
-          "abs_start_sec": 1.25,
-          "abs_end_sec": 2.155,
-          "source": "逐行合成",
-          "char_count": 4,
-          "char_per_sec": 4.42
+          "text": "贾平凹《自在独行》",
+          "start_sec": 0.76,
+          "end_sec": 2.96,
+          "abs_start_sec": 6.76,
+          "abs_end_sec": 8.96,
+          "source": "接口词级时间戳",
+          "note": ""
         }
-      ]
+      ],
+      "abs_start_sec": 6.0,
+      "abs_end_sec": 9.0
     },
     {
       "id": "03_正文",
@@ -63,452 +250,1082 @@
       "format": "wav",
       "sample_rate": 40000,
       "channels": 2,
-      "char_count": 249,
-      "duration_sec": 53.205,
-      "duration_source": "逐行合成（文件实测）",
-      "speech_rate": 4.68,
+      "char_count": 158,
+      "duration_sec": 27.33,
+      "api_duration_sec": 28,
+      "original_duration_sec": 28,
+      "duration_source": "文件实测",
+      "expect_sec": 28.0,
+      "logid": "202611012324554D89AE1D2A5114E61916",
+      "url_expire_note": "接口返回的 url 有效期 2 小时",
+      "subtitle": {
+        "sentences": [
+          {
+            "end_time": 2520,
+            "start_time": 0,
+            "text": "我本身就不喜欢主动，灵魂有趣，但不爱表达。",
+            "words": [
+              {
+                "end_time": 160,
+                "start_time": 0,
+                "text": "我"
+              },
+              {
+                "end_time": 200,
+                "start_time": 160,
+                "text": "本"
+              },
+              {
+                "end_time": 560,
+                "start_time": 520,
+                "text": "身"
+              },
+              {
+                "end_time": 600,
+                "start_time": 560,
+                "text": "就"
+              },
+              {
+                "end_time": 640,
+                "start_time": 600,
+                "text": "不"
+              },
+              {
+                "end_time": 800,
+                "start_time": 640,
+                "text": "喜"
+              },
+              {
+                "end_time": 1080,
+                "start_time": 920,
+                "text": "欢"
+              },
+              {
+                "end_time": 1320,
+                "start_time": 1240,
+                "text": "主"
+              },
+              {
+                "end_time": 1360,
+                "start_time": 1320,
+                "text": "动"
+              },
+              {
+                "end_time": 1360,
+                "start_time": 1360,
+                "text": "，"
+              },
+              {
+                "end_time": 1400,
+                "start_time": 1360,
+                "text": "灵"
+              },
+              {
+                "end_time": 1440,
+                "start_time": 1400,
+                "text": "魂"
+              },
+              {
+                "end_time": 2160,
+                "start_time": 2120,
+                "text": "有"
+              },
+              {
+                "end_time": 2200,
+                "start_time": 2160,
+                "text": "趣"
+              },
+              {
+                "end_time": 2200,
+                "start_time": 2200,
+                "text": "，"
+              },
+              {
+                "end_time": 2240,
+                "start_time": 2200,
+                "text": "但"
+              },
+              {
+                "end_time": 2360,
+                "start_time": 2320,
+                "text": "不"
+              },
+              {
+                "end_time": 2400,
+                "start_time": 2360,
+                "text": "爱"
+              },
+              {
+                "end_time": 2440,
+                "start_time": 2400,
+                "text": "表"
+              },
+              {
+                "end_time": 2520,
+                "start_time": 2440,
+                "text": "达"
+              },
+              {
+                "end_time": 2520,
+                "start_time": 2520,
+                "text": "。"
+              }
+            ]
+          },
+          {
+            "end_time": 3760,
+            "start_time": 2520,
+            "text": "死倔，也慢热。",
+            "words": [
+              {
+                "end_time": 2960,
+                "start_time": 2520,
+                "text": "死"
+              },
+              {
+                "end_time": 3640,
+                "start_time": 3600,
+                "text": "倔"
+              },
+              {
+                "end_time": 3640,
+                "start_time": 3640,
+                "text": "，"
+              },
+              {
+                "end_time": 3680,
+                "start_time": 3640,
+                "text": "也"
+              },
+              {
+                "end_time": 3720,
+                "start_time": 3680,
+                "text": "慢"
+              },
+              {
+                "end_time": 3760,
+                "start_time": 3720,
+                "text": "热"
+              },
+              {
+                "end_time": 3760,
+                "start_time": 3760,
+                "text": "。"
+              }
+            ]
+          },
+          {
+            "end_time": 4640,
+            "start_time": 3760,
+            "text": "遇到懂我的人，是幸运；",
+            "words": [
+              {
+                "end_time": 3800,
+                "start_time": 3760,
+                "text": "遇"
+              },
+              {
+                "end_time": 3840,
+                "start_time": 3800,
+                "text": "到"
+              },
+              {
+                "end_time": 4080,
+                "start_time": 3840,
+                "text": "懂"
+              },
+              {
+                "end_time": 4440,
+                "start_time": 4240,
+                "text": "我"
+              },
+              {
+                "end_time": 4480,
+                "start_time": 4440,
+                "text": "的"
+              },
+              {
+                "end_time": 4520,
+                "start_time": 4480,
+                "text": "人"
+              },
+              {
+                "end_time": 4520,
+                "start_time": 4520,
+                "text": "，"
+              },
+              {
+                "end_time": 4560,
+                "start_time": 4520,
+                "text": "是"
+              },
+              {
+                "end_time": 4600,
+                "start_time": 4560,
+                "text": "幸"
+              },
+              {
+                "end_time": 4640,
+                "start_time": 4600,
+                "text": "运"
+              },
+              {
+                "end_time": 4640,
+                "start_time": 4640,
+                "text": "；"
+              }
+            ]
+          },
+          {
+            "end_time": 4920,
+            "start_time": 4640,
+            "text": "遇不到，也是正常。",
+            "words": [
+              {
+                "end_time": 4680,
+                "start_time": 4640,
+                "text": "遇"
+              },
+              {
+                "end_time": 4720,
+                "start_time": 4680,
+                "text": "不"
+              },
+              {
+                "end_time": 4760,
+                "start_time": 4720,
+                "text": "到"
+              },
+              {
+                "end_time": 4760,
+                "start_time": 4760,
+                "text": "，"
+              },
+              {
+                "end_time": 4800,
+                "start_time": 4760,
+                "text": "也"
+              },
+              {
+                "end_time": 4840,
+                "start_time": 4800,
+                "text": "是"
+              },
+              {
+                "end_time": 4880,
+                "start_time": 4840,
+                "text": "正"
+              },
+              {
+                "end_time": 4920,
+                "start_time": 4880,
+                "text": "常"
+              },
+              {
+                "end_time": 4920,
+                "start_time": 4920,
+                "text": "。"
+              }
+            ]
+          },
+          {
+            "end_time": 5280,
+            "start_time": 4920,
+            "text": "沉默，喜欢独处，三观正。",
+            "words": [
+              {
+                "end_time": 4960,
+                "start_time": 4920,
+                "text": "沉"
+              },
+              {
+                "end_time": 5000,
+                "start_time": 4960,
+                "text": "默"
+              },
+              {
+                "end_time": 5000,
+                "start_time": 5000,
+                "text": "，"
+              },
+              {
+                "end_time": 5040,
+                "start_time": 5000,
+                "text": "喜"
+              },
+              {
+                "end_time": 5080,
+                "start_time": 5040,
+                "text": "欢"
+              },
+              {
+                "end_time": 5120,
+                "start_time": 5080,
+                "text": "独"
+              },
+              {
+                "end_time": 5160,
+                "start_time": 5120,
+                "text": "处"
+              },
+              {
+                "end_time": 5160,
+                "start_time": 5160,
+                "text": "，"
+              },
+              {
+                "end_time": 5200,
+                "start_time": 5160,
+                "text": "三"
+              },
+              {
+                "end_time": 5240,
+                "start_time": 5200,
+                "text": "观"
+              },
+              {
+                "end_time": 5280,
+                "start_time": 5240,
+                "text": "正"
+              },
+              {
+                "end_time": 5280,
+                "start_time": 5280,
+                "text": "。"
+              }
+            ]
+          },
+          {
+            "end_time": 7600,
+            "start_time": 5280,
+            "text": "有一块石头，黑黝黝的，牛一样趴着。",
+            "words": [
+              {
+                "end_time": 5320,
+                "start_time": 5280,
+                "text": "有"
+              },
+              {
+                "end_time": 5360,
+                "start_time": 5320,
+                "text": "一"
+              },
+              {
+                "end_time": 5400,
+                "start_time": 5360,
+                "text": "块"
+              },
+              {
+                "end_time": 5480,
+                "start_time": 5440,
+                "text": "石"
+              },
+              {
+                "end_time": 5560,
+                "start_time": 5520,
+                "text": "头"
+              },
+              {
+                "end_time": 5560,
+                "start_time": 5560,
+                "text": "，"
+              },
+              {
+                "end_time": 5600,
+                "start_time": 5560,
+                "text": "黑"
+              },
+              {
+                "end_time": 5640,
+                "start_time": 5600,
+                "text": "黝"
+              },
+              {
+                "end_time": 5800,
+                "start_time": 5760,
+                "text": "黝"
+              },
+              {
+                "end_time": 6120,
+                "start_time": 5800,
+                "text": "的"
+              },
+              {
+                "end_time": 6120,
+                "start_time": 6120,
+                "text": "，"
+              },
+              {
+                "end_time": 6720,
+                "start_time": 6360,
+                "text": "牛"
+              },
+              {
+                "end_time": 6840,
+                "start_time": 6760,
+                "text": "一"
+              },
+              {
+                "end_time": 7040,
+                "start_time": 6840,
+                "text": "样"
+              },
+              {
+                "end_time": 7320,
+                "start_time": 7080,
+                "text": "趴"
+              },
+              {
+                "end_time": 7600,
+                "start_time": 7320,
+                "text": "着"
+              },
+              {
+                "end_time": 7600,
+                "start_time": 7600,
+                "text": "。"
+              }
+            ]
+          },
+          {
+            "end_time": 9960,
+            "start_time": 8160,
+            "text": "人人嫌它丑，嫌它碍事。",
+            "words": [
+              {
+                "end_time": 8200,
+                "start_time": 8160,
+                "text": "人"
+              },
+              {
+                "end_time": 8680,
+                "start_time": 8240,
+                "text": "人"
+              },
+              {
+                "end_time": 8880,
+                "start_time": 8720,
+                "text": "嫌"
+              },
+              {
+                "end_time": 9160,
+                "start_time": 8960,
+                "text": "它"
+              },
+              {
+                "end_time": 9360,
+                "start_time": 9160,
+                "text": "丑"
+              },
+              {
+                "end_time": 9360,
+                "start_time": 9360,
+                "text": "，"
+              },
+              {
+                "end_time": 9400,
+                "start_time": 9360,
+                "text": "嫌"
+              },
+              {
+                "end_time": 9440,
+                "start_time": 9400,
+                "text": "它"
+              },
+              {
+                "end_time": 9480,
+                "start_time": 9440,
+                "text": "碍"
+              },
+              {
+                "end_time": 9960,
+                "start_time": 9920,
+                "text": "事"
+              },
+              {
+                "end_time": 9960,
+                "start_time": 9960,
+                "text": "。"
+              }
+            ]
+          },
+          {
+            "end_time": 16280,
+            "start_time": 9960,
+            "text": "直到天文学家说，这是陨石，从天上掉下来，补过天。",
+            "words": [
+              {
+                "end_time": 10160,
+                "start_time": 9960,
+                "text": "直"
+              },
+              {
+                "end_time": 10280,
+                "start_time": 10160,
+                "text": "到"
+              },
+              {
+                "end_time": 10560,
+                "start_time": 10280,
+                "text": "天"
+              },
+              {
+                "end_time": 10720,
+                "start_time": 10560,
+                "text": "文"
+              },
+              {
+                "end_time": 11040,
+                "start_time": 10800,
+                "text": "学"
+              },
+              {
+                "end_time": 11320,
+                "start_time": 11040,
+                "text": "家"
+              },
+              {
+                "end_time": 11640,
+                "start_time": 11320,
+                "text": "说"
+              },
+              {
+                "end_time": 11640,
+                "start_time": 11640,
+                "text": "，"
+              },
+              {
+                "end_time": 12360,
+                "start_time": 12120,
+                "text": "这"
+              },
+              {
+                "end_time": 12560,
+                "start_time": 12360,
+                "text": "是"
+              },
+              {
+                "end_time": 12720,
+                "start_time": 12680,
+                "text": "陨"
+              },
+              {
+                "end_time": 13120,
+                "start_time": 13040,
+                "text": "石"
+              },
+              {
+                "end_time": 13120,
+                "start_time": 13120,
+                "text": "，"
+              },
+              {
+                "end_time": 13840,
+                "start_time": 13560,
+                "text": "从"
+              },
+              {
+                "end_time": 14120,
+                "start_time": 13840,
+                "text": "天"
+              },
+              {
+                "end_time": 14320,
+                "start_time": 14120,
+                "text": "上"
+              },
+              {
+                "end_time": 14600,
+                "start_time": 14320,
+                "text": "掉"
+              },
+              {
+                "end_time": 14800,
+                "start_time": 14600,
+                "text": "下"
+              },
+              {
+                "end_time": 15040,
+                "start_time": 14800,
+                "text": "来"
+              },
+              {
+                "end_time": 15040,
+                "start_time": 15040,
+                "text": "，"
+              },
+              {
+                "end_time": 15640,
+                "start_time": 15520,
+                "text": "补"
+              },
+              {
+                "end_time": 15960,
+                "start_time": 15720,
+                "text": "过"
+              },
+              {
+                "end_time": 16280,
+                "start_time": 15960,
+                "text": "天"
+              },
+              {
+                "end_time": 16280,
+                "start_time": 16280,
+                "text": "。"
+              }
+            ]
+          },
+          {
+            "end_time": 19560,
+            "start_time": 16880,
+            "text": "丑到极处，便是美到极处。",
+            "words": [
+              {
+                "end_time": 17080,
+                "start_time": 16880,
+                "text": "丑"
+              },
+              {
+                "end_time": 17320,
+                "start_time": 17080,
+                "text": "到"
+              },
+              {
+                "end_time": 17480,
+                "start_time": 17320,
+                "text": "极"
+              },
+              {
+                "end_time": 17880,
+                "start_time": 17640,
+                "text": "处"
+              },
+              {
+                "end_time": 17880,
+                "start_time": 17880,
+                "text": "，"
+              },
+              {
+                "end_time": 18440,
+                "start_time": 18200,
+                "text": "便"
+              },
+              {
+                "end_time": 18640,
+                "start_time": 18440,
+                "text": "是"
+              },
+              {
+                "end_time": 18920,
+                "start_time": 18640,
+                "text": "美"
+              },
+              {
+                "end_time": 19120,
+                "start_time": 18920,
+                "text": "到"
+              },
+              {
+                "end_time": 19240,
+                "start_time": 19120,
+                "text": "极"
+              },
+              {
+                "end_time": 19560,
+                "start_time": 19400,
+                "text": "处"
+              },
+              {
+                "end_time": 19560,
+                "start_time": 19560,
+                "text": "。"
+              }
+            ]
+          },
+          {
+            "end_time": 27840,
+            "start_time": 20320,
+            "text": "原来，一个人也可以像这块石头——不迎合，不解释，在荒草里，自在独行。",
+            "words": [
+              {
+                "end_time": 20480,
+                "start_time": 20320,
+                "text": "原"
+              },
+              {
+                "end_time": 20640,
+                "start_time": 20480,
+                "text": "来"
+              },
+              {
+                "end_time": 20640,
+                "start_time": 20640,
+                "text": "，"
+              },
+              {
+                "end_time": 21320,
+                "start_time": 21160,
+                "text": "一"
+              },
+              {
+                "end_time": 21440,
+                "start_time": 21320,
+                "text": "个"
+              },
+              {
+                "end_time": 21560,
+                "start_time": 21440,
+                "text": "人"
+              },
+              {
+                "end_time": 21720,
+                "start_time": 21560,
+                "text": "也"
+              },
+              {
+                "end_time": 21800,
+                "start_time": 21720,
+                "text": "可"
+              },
+              {
+                "end_time": 21880,
+                "start_time": 21800,
+                "text": "以"
+              },
+              {
+                "end_time": 22160,
+                "start_time": 21880,
+                "text": "像"
+              },
+              {
+                "end_time": 22320,
+                "start_time": 22160,
+                "text": "这"
+              },
+              {
+                "end_time": 22440,
+                "start_time": 22320,
+                "text": "块"
+              },
+              {
+                "end_time": 22560,
+                "start_time": 22440,
+                "text": "石"
+              },
+              {
+                "end_time": 22760,
+                "start_time": 22560,
+                "text": "头"
+              },
+              {
+                "end_time": 22760,
+                "start_time": 22760,
+                "text": "—"
+              },
+              {
+                "end_time": 22760,
+                "start_time": 22760,
+                "text": "—"
+              },
+              {
+                "end_time": 22920,
+                "start_time": 22760,
+                "text": "不"
+              },
+              {
+                "end_time": 23080,
+                "start_time": 23000,
+                "text": "迎"
+              },
+              {
+                "end_time": 23320,
+                "start_time": 23280,
+                "text": "合"
+              },
+              {
+                "end_time": 23320,
+                "start_time": 23320,
+                "text": "，"
+              },
+              {
+                "end_time": 24240,
+                "start_time": 23960,
+                "text": "不"
+              },
+              {
+                "end_time": 24440,
+                "start_time": 24240,
+                "text": "解"
+              },
+              {
+                "end_time": 24600,
+                "start_time": 24440,
+                "text": "释"
+              },
+              {
+                "end_time": 24600,
+                "start_time": 24600,
+                "text": "，"
+              },
+              {
+                "end_time": 25640,
+                "start_time": 25400,
+                "text": "在"
+              },
+              {
+                "end_time": 25840,
+                "start_time": 25680,
+                "text": "荒"
+              },
+              {
+                "end_time": 26200,
+                "start_time": 26000,
+                "text": "草"
+              },
+              {
+                "end_time": 26640,
+                "start_time": 26320,
+                "text": "里"
+              },
+              {
+                "end_time": 26640,
+                "start_time": 26640,
+                "text": "，"
+              },
+              {
+                "end_time": 27200,
+                "start_time": 26920,
+                "text": "自"
+              },
+              {
+                "end_time": 27320,
+                "start_time": 27200,
+                "text": "在"
+              },
+              {
+                "end_time": 27600,
+                "start_time": 27560,
+                "text": "独"
+              },
+              {
+                "end_time": 27840,
+                "start_time": 27800,
+                "text": "行"
+              },
+              {
+                "end_time": 27840,
+                "start_time": 27840,
+                "text": "。"
+              }
+            ]
+          }
+        ],
+        "text": "我本身就不喜欢主动，灵魂有趣，但不爱表达。死倔，也慢热。遇到懂我的人，是幸运；遇不到，也是正常。沉默，喜欢独处，三观正。有一块石头，黑黝黝的，牛一样趴着。人人嫌它丑，嫌它碍事。直到天文学家说，这是陨石，从天上掉下来，补过天。丑到极处，便是美到极处。原来，一个人也可以像这块石头——不迎合，不解释，在荒草里，自在独行。"
+      },
+      "subtitle_file": "03_正文_字幕.json",
       "lines": [
         {
           "seq": 1,
-          "text": "这本书出版那年，",
+          "text": "我本身就不喜欢主动，",
           "start_sec": 0.0,
-          "end_sec": 1.1,
-          "abs_start_sec": 2.305,
-          "abs_end_sec": 3.405,
-          "source": "逐行合成",
-          "char_count": 7,
-          "char_per_sec": 6.36
+          "end_sec": 1.08,
+          "abs_start_sec": 9.0,
+          "abs_end_sec": 10.08,
+          "source": "静音边界对齐",
+          "char_count": 9,
+          "char_per_sec": 8.33
         },
         {
           "seq": 2,
-          "text": "他六十四岁。",
-          "start_sec": 1.32,
-          "end_sec": 2.12,
-          "abs_start_sec": 3.625,
-          "abs_end_sec": 4.425,
-          "source": "逐行合成",
-          "char_count": 5,
-          "char_per_sec": 6.25
+          "text": "灵魂有趣，但不爱表达。",
+          "start_sec": 1.08,
+          "end_sec": 2.655,
+          "abs_start_sec": 10.08,
+          "abs_end_sec": 11.655,
+          "source": "静音边界对齐",
+          "char_count": 9,
+          "char_per_sec": 5.71
         },
         {
           "seq": 3,
-          "text": "陕西丹凤人，",
-          "start_sec": 2.52,
-          "end_sec": 3.32,
-          "abs_start_sec": 4.825,
-          "abs_end_sec": 5.625,
-          "source": "逐行合成",
+          "text": "死倔，也慢热。",
+          "start_sec": 2.655,
+          "end_sec": 4.08,
+          "abs_start_sec": 11.655,
+          "abs_end_sec": 13.08,
+          "source": "静音边界对齐",
           "char_count": 5,
-          "char_per_sec": 6.25
+          "char_per_sec": 3.51
         },
         {
           "seq": 4,
-          "text": "在西安住了大半辈子。",
-          "start_sec": 3.54,
-          "end_sec": 5.04,
-          "abs_start_sec": 5.845,
-          "abs_end_sec": 7.345,
-          "source": "逐行合成",
+          "text": "遇到懂我的人，是幸运；",
+          "start_sec": 4.08,
+          "end_sec": 5.465,
+          "abs_start_sec": 13.08,
+          "abs_end_sec": 14.465,
+          "source": "静音边界对齐",
           "char_count": 9,
-          "char_per_sec": 6.0
+          "char_per_sec": 6.5
         },
         {
           "seq": 5,
-          "text": "他最怕有人敲门。",
-          "start_sec": 5.44,
-          "end_sec": 6.54,
-          "abs_start_sec": 7.745,
-          "abs_end_sec": 8.845,
-          "source": "逐行合成",
+          "text": "遇不到，也是正常。",
+          "start_sec": 5.465,
+          "end_sec": 7.195,
+          "abs_start_sec": 14.465,
+          "abs_end_sec": 16.195,
+          "source": "静音边界对齐",
           "char_count": 7,
-          "char_per_sec": 6.36
+          "char_per_sec": 4.05
         },
         {
           "seq": 6,
-          "text": "书里七十多篇，",
-          "start_sec": 6.94,
-          "end_sec": 7.94,
-          "abs_start_sec": 9.245,
-          "abs_end_sec": 10.245,
-          "source": "逐行合成",
-          "char_count": 6,
-          "char_per_sec": 6.0
+          "text": "沉默，喜欢独处，三观正。",
+          "start_sec": 7.195,
+          "end_sec": 9.03,
+          "abs_start_sec": 16.195,
+          "abs_end_sec": 18.03,
+          "source": "静音边界对齐",
+          "char_count": 9,
+          "char_per_sec": 4.9
         },
         {
           "seq": 7,
-          "text": "写的都是小东西。",
-          "start_sec": 8.16,
-          "end_sec": 9.26,
-          "abs_start_sec": 10.465,
-          "abs_end_sec": 11.565,
-          "source": "逐行合成",
-          "char_count": 7,
-          "char_per_sec": 6.36
+          "text": "有一块石头，",
+          "start_sec": 9.03,
+          "end_sec": 11.21,
+          "abs_start_sec": 18.03,
+          "abs_end_sec": 20.21,
+          "source": "静音边界对齐",
+          "char_count": 5,
+          "char_per_sec": 2.29
         },
         {
           "seq": 8,
-          "text": "最出名的一篇，叫丑石。",
-          "start_sec": 9.66,
-          "end_sec": 11.16,
-          "abs_start_sec": 11.965,
-          "abs_end_sec": 13.465,
-          "source": "逐行合成",
+          "text": "黑黝黝的，牛一样趴着。",
+          "start_sec": 11.21,
+          "end_sec": 12.77,
+          "abs_start_sec": 20.21,
+          "abs_end_sec": 21.77,
+          "source": "静音边界对齐",
           "char_count": 9,
-          "char_per_sec": 6.0
+          "char_per_sec": 5.77
         },
         {
           "seq": 9,
-          "text": "他家门前有块石头，",
-          "start_sec": 11.56,
-          "end_sec": 12.84,
-          "abs_start_sec": 13.865,
-          "abs_end_sec": 15.145,
-          "source": "逐行合成",
-          "char_count": 8,
-          "char_per_sec": 6.25
+          "text": "人人嫌它丑，嫌它碍事。",
+          "start_sec": 12.77,
+          "end_sec": 14.54,
+          "abs_start_sec": 21.77,
+          "abs_end_sec": 23.54,
+          "source": "静音边界对齐",
+          "char_count": 9,
+          "char_per_sec": 5.08
         },
         {
           "seq": 10,
-          "text": "黑黝黝的，",
-          "start_sec": 13.06,
-          "end_sec": 13.66,
-          "abs_start_sec": 15.365,
-          "abs_end_sec": 15.965,
-          "source": "逐行合成",
-          "char_count": 4,
-          "char_per_sec": 6.67
+          "text": "直到天文学家说，",
+          "start_sec": 14.54,
+          "end_sec": 15.825,
+          "abs_start_sec": 23.54,
+          "abs_end_sec": 24.825,
+          "source": "静音边界对齐",
+          "char_count": 7,
+          "char_per_sec": 5.45
         },
         {
           "seq": 11,
-          "text": "牛一样趴在那里。",
-          "start_sec": 13.88,
-          "end_sec": 14.98,
-          "abs_start_sec": 16.185,
-          "abs_end_sec": 17.285,
-          "source": "逐行合成",
-          "char_count": 7,
-          "char_per_sec": 6.36
+          "text": "这是陨石，",
+          "start_sec": 15.825,
+          "end_sec": 17.415,
+          "abs_start_sec": 24.825,
+          "abs_end_sec": 26.415,
+          "source": "静音边界对齐",
+          "char_count": 4,
+          "char_per_sec": 2.52
         },
         {
           "seq": 12,
-          "text": "奶奶嫌它碍事，",
-          "start_sec": 15.38,
-          "end_sec": 16.38,
-          "abs_start_sec": 17.685,
-          "abs_end_sec": 18.685,
-          "source": "逐行合成",
-          "char_count": 6,
-          "char_per_sec": 6.0
+          "text": "从天上掉下来，补过天。",
+          "start_sec": 17.415,
+          "end_sec": 19.135,
+          "abs_start_sec": 26.415,
+          "abs_end_sec": 28.135,
+          "source": "静音边界对齐",
+          "char_count": 9,
+          "char_per_sec": 5.23
         },
         {
           "seq": 13,
-          "text": "伯父盖房没用它，",
-          "start_sec": 16.6,
-          "end_sec": 17.7,
-          "abs_start_sec": 18.905,
-          "abs_end_sec": 20.005,
-          "source": "逐行合成",
-          "char_count": 7,
-          "char_per_sec": 6.36
+          "text": "丑到极处，",
+          "start_sec": 19.135,
+          "end_sec": 20.26,
+          "abs_start_sec": 28.135,
+          "abs_end_sec": 29.26,
+          "source": "静音边界对齐",
+          "char_count": 4,
+          "char_per_sec": 3.56
         },
         {
           "seq": 14,
-          "text": "石匠摸了摸，",
-          "start_sec": 17.92,
-          "end_sec": 18.72,
-          "abs_start_sec": 20.225,
-          "abs_end_sec": 21.025,
-          "source": "逐行合成",
-          "char_count": 5,
-          "char_per_sec": 6.25
+          "text": "便是美到极处。",
+          "start_sec": 20.26,
+          "end_sec": 23.07,
+          "abs_start_sec": 29.26,
+          "abs_end_sec": 32.07,
+          "source": "静音边界对齐",
+          "char_count": 6,
+          "char_per_sec": 2.14
         },
         {
           "seq": 15,
-          "text": "也摇头。",
-          "start_sec": 18.94,
-          "end_sec": 19.54,
-          "abs_start_sec": 21.245,
-          "abs_end_sec": 21.845,
-          "source": "逐行合成",
-          "char_count": 3,
-          "char_per_sec": 5.0
+          "text": "原来，一个人也可以像这块石头——",
+          "start_sec": 23.07,
+          "end_sec": 24.445,
+          "abs_start_sec": 32.07,
+          "abs_end_sec": 33.445,
+          "source": "静音边界对齐",
+          "char_count": 13,
+          "char_per_sec": 9.45
         },
         {
           "seq": 16,
-          "text": "有一天，",
-          "start_sec": 19.94,
-          "end_sec": 20.585,
-          "abs_start_sec": 22.245,
-          "abs_end_sec": 22.89,
-          "source": "逐行合成",
-          "char_count": 3,
-          "char_per_sec": 4.65
+          "text": "不迎合，不解释，",
+          "start_sec": 24.445,
+          "end_sec": 26.065,
+          "abs_start_sec": 33.445,
+          "abs_end_sec": 35.065,
+          "source": "静音边界对齐",
+          "char_count": 6,
+          "char_per_sec": 3.7
         },
         {
           "seq": 17,
-          "text": "村里来了个天文学家。",
-          "start_sec": 20.805,
-          "end_sec": 22.305,
-          "abs_start_sec": 23.11,
-          "abs_end_sec": 24.61,
-          "source": "逐行合成",
-          "char_count": 9,
-          "char_per_sec": 6.0
-        },
-        {
-          "seq": 18,
-          "text": "他在石头前站住，",
-          "start_sec": 22.705,
-          "end_sec": 23.905,
-          "abs_start_sec": 25.01,
-          "abs_end_sec": 26.21,
-          "source": "逐行合成",
-          "char_count": 7,
-          "char_per_sec": 5.83
-        },
-        {
-          "seq": 19,
-          "text": "看了一眼就再没走。",
-          "start_sec": 24.125,
-          "end_sec": 25.76,
-          "abs_start_sec": 26.43,
-          "abs_end_sec": 28.065,
-          "source": "逐行合成",
+          "text": "在荒草里，自在独行。",
+          "start_sec": 26.065,
+          "end_sec": 27.33,
+          "abs_start_sec": 35.065,
+          "abs_end_sec": 36.33,
+          "source": "静音边界对齐",
           "char_count": 8,
-          "char_per_sec": 4.89
-        },
-        {
-          "seq": 20,
-          "text": "来人说，这是陨石。",
-          "start_sec": 26.16,
-          "end_sec": 27.26,
-          "abs_start_sec": 28.465,
-          "abs_end_sec": 29.565,
-          "source": "逐行合成",
-          "char_count": 7,
-          "char_per_sec": 6.36
-        },
-        {
-          "seq": 21,
-          "text": "从天上落下来，",
-          "start_sec": 27.66,
-          "end_sec": 28.635,
-          "abs_start_sec": 29.965,
-          "abs_end_sec": 30.94,
-          "source": "逐行合成",
-          "char_count": 6,
-          "char_per_sec": 6.15
-        },
-        {
-          "seq": 22,
-          "text": "已经二三百年。",
-          "start_sec": 28.855,
-          "end_sec": 29.75,
-          "abs_start_sec": 31.16,
-          "abs_end_sec": 32.055,
-          "source": "逐行合成",
-          "char_count": 6,
-          "char_per_sec": 6.7
-        },
-        {
-          "seq": 23,
-          "text": "一院子人都愣了。",
-          "start_sec": 30.15,
-          "end_sec": 31.25,
-          "abs_start_sec": 32.455,
-          "abs_end_sec": 33.555,
-          "source": "逐行合成",
-          "char_count": 7,
-          "char_per_sec": 6.36
-        },
-        {
-          "seq": 24,
-          "text": "原来它补过天，",
-          "start_sec": 31.65,
-          "end_sec": 32.65,
-          "abs_start_sec": 33.955,
-          "abs_end_sec": 34.955,
-          "source": "逐行合成",
-          "char_count": 6,
-          "char_per_sec": 6.0
-        },
-        {
-          "seq": 25,
-          "text": "原来它在天上发过热。",
-          "start_sec": 32.87,
-          "end_sec": 34.325,
-          "abs_start_sec": 35.175,
-          "abs_end_sec": 36.63,
-          "source": "逐行合成",
-          "char_count": 9,
-          "char_per_sec": 6.19
-        },
-        {
-          "seq": 26,
-          "text": "它落下来，",
-          "start_sec": 34.725,
-          "end_sec": 35.325,
-          "abs_start_sec": 37.03,
-          "abs_end_sec": 37.63,
-          "source": "逐行合成",
-          "char_count": 4,
-          "char_per_sec": 6.67
-        },
-        {
-          "seq": 27,
-          "text": "在荒草里躺了几百年。",
-          "start_sec": 35.545,
-          "end_sec": 37.045,
-          "abs_start_sec": 37.85,
-          "abs_end_sec": 39.35,
-          "source": "逐行合成",
-          "char_count": 9,
-          "char_per_sec": 6.0
-        },
-        {
-          "seq": 28,
-          "text": "天文学家说，",
-          "start_sec": 37.445,
-          "end_sec": 38.245,
-          "abs_start_sec": 39.75,
-          "abs_end_sec": 40.55,
-          "source": "逐行合成",
-          "char_count": 5,
-          "char_per_sec": 6.25
-        },
-        {
-          "seq": 29,
-          "text": "丑到极处，",
-          "start_sec": 38.465,
-          "end_sec": 39.37,
-          "abs_start_sec": 40.77,
-          "abs_end_sec": 41.675,
-          "source": "逐行合成",
-          "char_count": 4,
-          "char_per_sec": 4.42
-        },
-        {
-          "seq": 30,
-          "text": "便是美到极处。",
-          "start_sec": 39.59,
-          "end_sec": 40.59,
-          "abs_start_sec": 41.895,
-          "abs_end_sec": 42.895,
-          "source": "逐行合成",
-          "char_count": 6,
-          "char_per_sec": 6.0
-        },
-        {
-          "seq": 31,
-          "text": "贾平凹说，",
-          "start_sec": 40.99,
-          "end_sec": 41.59,
-          "abs_start_sec": 43.295,
-          "abs_end_sec": 43.895,
-          "source": "逐行合成",
-          "char_count": 4,
-          "char_per_sec": 6.67
-        },
-        {
-          "seq": 32,
-          "text": "他这才懂，",
-          "start_sec": 41.81,
-          "end_sec": 42.41,
-          "abs_start_sec": 44.115,
-          "abs_end_sec": 44.715,
-          "source": "逐行合成",
-          "char_count": 4,
-          "char_per_sec": 6.67
-        },
-        {
-          "seq": 33,
-          "text": "一块石头，",
-          "start_sec": 42.63,
-          "end_sec": 43.23,
-          "abs_start_sec": 44.935,
-          "abs_end_sec": 45.535,
-          "source": "逐行合成",
-          "char_count": 4,
-          "char_per_sec": 6.67
-        },
-        {
-          "seq": 34,
-          "text": "可以忍受误解那么久。",
-          "start_sec": 43.45,
-          "end_sec": 44.915,
-          "abs_start_sec": 45.755,
-          "abs_end_sec": 47.22,
-          "source": "逐行合成",
-          "char_count": 9,
-          "char_per_sec": 6.14
-        },
-        {
-          "seq": 35,
-          "text": "这本书不劝你合群。",
-          "start_sec": 45.315,
-          "end_sec": 46.51,
-          "abs_start_sec": 47.62,
-          "abs_end_sec": 48.815,
-          "source": "逐行合成",
-          "char_count": 8,
-          "char_per_sec": 6.69
-        },
-        {
-          "seq": 36,
-          "text": "它只说，",
-          "start_sec": 46.91,
-          "end_sec": 47.41,
-          "abs_start_sec": 49.215,
-          "abs_end_sec": 49.715,
-          "source": "逐行合成",
-          "char_count": 3,
-          "char_per_sec": 6.0
-        },
-        {
-          "seq": 37,
-          "text": "一个人待着，",
-          "start_sec": 47.63,
-          "end_sec": 48.335,
-          "abs_start_sec": 49.935,
-          "abs_end_sec": 50.64,
-          "source": "逐行合成",
-          "char_count": 5,
-          "char_per_sec": 7.09
-        },
-        {
-          "seq": 38,
-          "text": "才听得见自己。",
-          "start_sec": 48.555,
-          "end_sec": 50.055,
-          "abs_start_sec": 50.86,
-          "abs_end_sec": 52.36,
-          "source": "逐行合成",
-          "char_count": 6,
-          "char_per_sec": 4.0
-        },
-        {
-          "seq": 39,
-          "text": "读完你会想关灯，",
-          "start_sec": 50.455,
-          "end_sec": 51.555,
-          "abs_start_sec": 52.76,
-          "abs_end_sec": 53.86,
-          "source": "逐行合成",
-          "char_count": 7,
-          "char_per_sec": 6.36
-        },
-        {
-          "seq": 40,
-          "text": "在黑暗里坐一会儿。",
-          "start_sec": 51.775,
-          "end_sec": 53.055,
-          "abs_start_sec": 54.08,
-          "abs_end_sec": 55.36,
-          "source": "逐行合成",
-          "char_count": 8,
-          "char_per_sec": 6.25
+          "char_per_sec": 6.32
         }
-      ]
+      ],
+      "abs_start_sec": 9.0,
+      "abs_end_sec": 37.0,
+      "timeline_method": "整段合成 + 静音边界对齐"
     }
+  ],
+  "failed": [],
+  "total_duration_sec": 36.33,
+  "total_char_count": 185,
+  "audio_dir": "03_成片素材/音频/自在独行",
+  "notes": [
+    "duration_sec 为本地实测时长（WAV 读帧数 / PCM 按字节数），字幕和剪映时间线以它为准",
+    "original_duration_sec 为接口返回的计费依据",
+    "接口返回的 url 有效期 2 小时，已落盘的文件不受影响",
+    "lines 为逐句时间轴，abs_* 为全片绝对时间，gen_draft.py 直接消费"
   ]
 }

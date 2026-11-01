@@ -1,52 +1,102 @@
 {
   "sentences": [
     {
-      "end_time": 1720,
-      "start_time": 400,
-      "text": "今天要分享的是。",
+      "end_time": 5920,
+      "start_time": 1560,
+      "text": "我比你想象的深情，也比你以为的冷漠。",
       "words": [
         {
-          "end_time": 600,
-          "start_time": 400,
-          "text": "今"
+          "end_time": 1880,
+          "start_time": 1560,
+          "text": "我"
         },
         {
-          "end_time": 760,
-          "start_time": 600,
-          "text": "天"
+          "end_time": 2120,
+          "start_time": 1880,
+          "text": "比"
         },
         {
-          "end_time": 960,
-          "start_time": 760,
-          "text": "要"
+          "end_time": 2240,
+          "start_time": 2120,
+          "text": "你"
         },
         {
-          "end_time": 1120,
-          "start_time": 960,
-          "text": "分"
+          "end_time": 2520,
+          "start_time": 2240,
+          "text": "想"
         },
         {
-          "end_time": 1320,
-          "start_time": 1120,
-          "text": "享"
+          "end_time": 2600,
+          "start_time": 2520,
+          "text": "象"
         },
         {
-          "end_time": 1520,
-          "start_time": 1320,
+          "end_time": 2920,
+          "start_time": 2680,
           "text": "的"
         },
         {
-          "end_time": 1720,
-          "start_time": 1520,
-          "text": "是"
+          "end_time": 3040,
+          "start_time": 2920,
+          "text": "深"
         },
         {
-          "end_time": 1720,
-          "start_time": 1720,
+          "end_time": 3320,
+          "start_time": 3120,
+          "text": "情"
+        },
+        {
+          "end_time": 3320,
+          "start_time": 3320,
+          "text": "，"
+        },
+        {
+          "end_time": 4320,
+          "start_time": 4040,
+          "text": "也"
+        },
+        {
+          "end_time": 4560,
+          "start_time": 4320,
+          "text": "比"
+        },
+        {
+          "end_time": 4880,
+          "start_time": 4560,
+          "text": "你"
+        },
+        {
+          "end_time": 5200,
+          "start_time": 4960,
+          "text": "以"
+        },
+        {
+          "end_time": 5360,
+          "start_time": 5200,
+          "text": "为"
+        },
+        {
+          "end_time": 5560,
+          "start_time": 5360,
+          "text": "的"
+        },
+        {
+          "end_time": 5760,
+          "start_time": 5560,
+          "text": "冷"
+        },
+        {
+          "end_time": 5920,
+          "start_time": 5760,
+          "text": "漠"
+        },
+        {
+          "end_time": 5920,
+          "start_time": 5920,
           "text": "。"
         }
       ]
     }
   ],
-  "text": "今天要分享的是。"
+  "text": "我比你想象的深情，也比你以为的冷漠。"
 }
