@@ -1,0 +1,1275 @@
+{
+  "sentences": [
+    {
+      "end_time": 5440,
+      "start_time": 80,
+      "text": "一个男人，抱着婴儿，从北方出发，一路向南。",
+      "words": [
+        {
+          "end_time": 280,
+          "start_time": 80,
+          "text": "一"
+        },
+        {
+          "end_time": 400,
+          "start_time": 280,
+          "text": "个"
+        },
+        {
+          "end_time": 640,
+          "start_time": 400,
+          "text": "男"
+        },
+        {
+          "end_time": 880,
+          "start_time": 640,
+          "text": "人"
+        },
+        {
+          "end_time": 880,
+          "start_time": 880,
+          "text": "，"
+        },
+        {
+          "end_time": 1640,
+          "start_time": 1440,
+          "text": "抱"
+        },
+        {
+          "end_time": 1840,
+          "start_time": 1640,
+          "text": "着"
+        },
+        {
+          "end_time": 2160,
+          "start_time": 1920,
+          "text": "婴"
+        },
+        {
+          "end_time": 2360,
+          "start_time": 2160,
+          "text": "儿"
+        },
+        {
+          "end_time": 2360,
+          "start_time": 2360,
+          "text": "，"
+        },
+        {
+          "end_time": 3000,
+          "start_time": 2720,
+          "text": "从"
+        },
+        {
+          "end_time": 3200,
+          "start_time": 3000,
+          "text": "北"
+        },
+        {
+          "end_time": 3480,
+          "start_time": 3200,
+          "text": "方"
+        },
+        {
+          "end_time": 3720,
+          "start_time": 3480,
+          "text": "出"
+        },
+        {
+          "end_time": 4000,
+          "start_time": 3720,
+          "text": "发"
+        },
+        {
+          "end_time": 4000,
+          "start_time": 4000,
+          "text": "，"
+        },
+        {
+          "end_time": 4720,
+          "start_time": 4440,
+          "text": "一"
+        },
+        {
+          "end_time": 4920,
+          "start_time": 4720,
+          "text": "路"
+        },
+        {
+          "end_time": 5120,
+          "start_time": 5000,
+          "text": "向"
+        },
+        {
+          "end_time": 5440,
+          "start_time": 5280,
+          "text": "南"
+        },
+        {
+          "end_time": 5440,
+          "start_time": 5440,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 7320,
+      "start_time": 6000,
+      "text": "他在找一个女人。",
+      "words": [
+        {
+          "end_time": 6200,
+          "start_time": 6000,
+          "text": "他"
+        },
+        {
+          "end_time": 6400,
+          "start_time": 6200,
+          "text": "在"
+        },
+        {
+          "end_time": 6640,
+          "start_time": 6400,
+          "text": "找"
+        },
+        {
+          "end_time": 6720,
+          "start_time": 6640,
+          "text": "一"
+        },
+        {
+          "end_time": 6840,
+          "start_time": 6720,
+          "text": "个"
+        },
+        {
+          "end_time": 7080,
+          "start_time": 6840,
+          "text": "女"
+        },
+        {
+          "end_time": 7320,
+          "start_time": 7080,
+          "text": "人"
+        },
+        {
+          "end_time": 7320,
+          "start_time": 7320,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 10720,
+      "start_time": 8160,
+      "text": "她来过他家，又走了。",
+      "words": [
+        {
+          "end_time": 8400,
+          "start_time": 8160,
+          "text": "她"
+        },
+        {
+          "end_time": 8640,
+          "start_time": 8400,
+          "text": "来"
+        },
+        {
+          "end_time": 8840,
+          "start_time": 8640,
+          "text": "过"
+        },
+        {
+          "end_time": 9040,
+          "start_time": 8840,
+          "text": "他"
+        },
+        {
+          "end_time": 9400,
+          "start_time": 9040,
+          "text": "家"
+        },
+        {
+          "end_time": 9400,
+          "start_time": 9400,
+          "text": "，"
+        },
+        {
+          "end_time": 10120,
+          "start_time": 9840,
+          "text": "又"
+        },
+        {
+          "end_time": 10400,
+          "start_time": 10120,
+          "text": "走"
+        },
+        {
+          "end_time": 10720,
+          "start_time": 10400,
+          "text": "了"
+        },
+        {
+          "end_time": 10720,
+          "start_time": 10720,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 15520,
+      "start_time": 11440,
+      "text": "回来过一次，生下孩子，又消失了。",
+      "words": [
+        {
+          "end_time": 11640,
+          "start_time": 11440,
+          "text": "回"
+        },
+        {
+          "end_time": 11800,
+          "start_time": 11640,
+          "text": "来"
+        },
+        {
+          "end_time": 12040,
+          "start_time": 11800,
+          "text": "过"
+        },
+        {
+          "end_time": 12240,
+          "start_time": 12040,
+          "text": "一"
+        },
+        {
+          "end_time": 12480,
+          "start_time": 12240,
+          "text": "次"
+        },
+        {
+          "end_time": 12480,
+          "start_time": 12480,
+          "text": "，"
+        },
+        {
+          "end_time": 13280,
+          "start_time": 13000,
+          "text": "生"
+        },
+        {
+          "end_time": 13440,
+          "start_time": 13280,
+          "text": "下"
+        },
+        {
+          "end_time": 13760,
+          "start_time": 13480,
+          "text": "孩"
+        },
+        {
+          "end_time": 14000,
+          "start_time": 13760,
+          "text": "子"
+        },
+        {
+          "end_time": 14000,
+          "start_time": 14000,
+          "text": "，"
+        },
+        {
+          "end_time": 14680,
+          "start_time": 14360,
+          "text": "又"
+        },
+        {
+          "end_time": 14960,
+          "start_time": 14680,
+          "text": "消"
+        },
+        {
+          "end_time": 15200,
+          "start_time": 14960,
+          "text": "失"
+        },
+        {
+          "end_time": 15520,
+          "start_time": 15200,
+          "text": "了"
+        },
+        {
+          "end_time": 15520,
+          "start_time": 15520,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 16840,
+      "start_time": 16160,
+      "text": "他没有恨。",
+      "words": [
+        {
+          "end_time": 16200,
+          "start_time": 16160,
+          "text": "他"
+        },
+        {
+          "end_time": 16360,
+          "start_time": 16200,
+          "text": "没"
+        },
+        {
+          "end_time": 16480,
+          "start_time": 16360,
+          "text": "有"
+        },
+        {
+          "end_time": 16840,
+          "start_time": 16480,
+          "text": "恨"
+        },
+        {
+          "end_time": 16840,
+          "start_time": 16840,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 20320,
+      "start_time": 17440,
+      "text": "他只是抱着女儿，继续走。",
+      "words": [
+        {
+          "end_time": 17680,
+          "start_time": 17440,
+          "text": "他"
+        },
+        {
+          "end_time": 17840,
+          "start_time": 17680,
+          "text": "只"
+        },
+        {
+          "end_time": 17960,
+          "start_time": 17840,
+          "text": "是"
+        },
+        {
+          "end_time": 18200,
+          "start_time": 17960,
+          "text": "抱"
+        },
+        {
+          "end_time": 18400,
+          "start_time": 18200,
+          "text": "着"
+        },
+        {
+          "end_time": 18600,
+          "start_time": 18400,
+          "text": "女"
+        },
+        {
+          "end_time": 18840,
+          "start_time": 18600,
+          "text": "儿"
+        },
+        {
+          "end_time": 18840,
+          "start_time": 18840,
+          "text": "，"
+        },
+        {
+          "end_time": 19760,
+          "start_time": 19520,
+          "text": "继"
+        },
+        {
+          "end_time": 19960,
+          "start_time": 19760,
+          "text": "续"
+        },
+        {
+          "end_time": 20320,
+          "start_time": 19960,
+          "text": "走"
+        },
+        {
+          "end_time": 20320,
+          "start_time": 20320,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 27040,
+      "start_time": 20640,
+      "text": "他找到一个小镇，住了下来，认了兄弟，开了铺子，把女儿养大。",
+      "words": [
+        {
+          "end_time": 20880,
+          "start_time": 20640,
+          "text": "他"
+        },
+        {
+          "end_time": 21040,
+          "start_time": 20880,
+          "text": "找"
+        },
+        {
+          "end_time": 21200,
+          "start_time": 21040,
+          "text": "到"
+        },
+        {
+          "end_time": 21320,
+          "start_time": 21200,
+          "text": "一"
+        },
+        {
+          "end_time": 21360,
+          "start_time": 21320,
+          "text": "个"
+        },
+        {
+          "end_time": 21600,
+          "start_time": 21360,
+          "text": "小"
+        },
+        {
+          "end_time": 21800,
+          "start_time": 21640,
+          "text": "镇"
+        },
+        {
+          "end_time": 21800,
+          "start_time": 21800,
+          "text": "，"
+        },
+        {
+          "end_time": 22440,
+          "start_time": 22280,
+          "text": "住"
+        },
+        {
+          "end_time": 22640,
+          "start_time": 22520,
+          "text": "了"
+        },
+        {
+          "end_time": 22880,
+          "start_time": 22640,
+          "text": "下"
+        },
+        {
+          "end_time": 23120,
+          "start_time": 22880,
+          "text": "来"
+        },
+        {
+          "end_time": 23120,
+          "start_time": 23120,
+          "text": "，"
+        },
+        {
+          "end_time": 23680,
+          "start_time": 23480,
+          "text": "认"
+        },
+        {
+          "end_time": 23880,
+          "start_time": 23680,
+          "text": "了"
+        },
+        {
+          "end_time": 24080,
+          "start_time": 23880,
+          "text": "兄"
+        },
+        {
+          "end_time": 24320,
+          "start_time": 24080,
+          "text": "弟"
+        },
+        {
+          "end_time": 24320,
+          "start_time": 24320,
+          "text": "，"
+        },
+        {
+          "end_time": 24880,
+          "start_time": 24560,
+          "text": "开"
+        },
+        {
+          "end_time": 25000,
+          "start_time": 24880,
+          "text": "了"
+        },
+        {
+          "end_time": 25200,
+          "start_time": 25080,
+          "text": "铺"
+        },
+        {
+          "end_time": 25520,
+          "start_time": 25320,
+          "text": "子"
+        },
+        {
+          "end_time": 25520,
+          "start_time": 25520,
+          "text": "，"
+        },
+        {
+          "end_time": 26120,
+          "start_time": 25840,
+          "text": "把"
+        },
+        {
+          "end_time": 26280,
+          "start_time": 26120,
+          "text": "女"
+        },
+        {
+          "end_time": 26440,
+          "start_time": 26280,
+          "text": "儿"
+        },
+        {
+          "end_time": 26720,
+          "start_time": 26480,
+          "text": "养"
+        },
+        {
+          "end_time": 27040,
+          "start_time": 26720,
+          "text": "大"
+        },
+        {
+          "end_time": 27040,
+          "start_time": 27040,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 28760,
+      "start_time": 27360,
+      "text": "可他一直在等。",
+      "words": [
+        {
+          "end_time": 27680,
+          "start_time": 27360,
+          "text": "可"
+        },
+        {
+          "end_time": 27960,
+          "start_time": 27680,
+          "text": "他"
+        },
+        {
+          "end_time": 28040,
+          "start_time": 27960,
+          "text": "一"
+        },
+        {
+          "end_time": 28200,
+          "start_time": 28040,
+          "text": "直"
+        },
+        {
+          "end_time": 28400,
+          "start_time": 28200,
+          "text": "在"
+        },
+        {
+          "end_time": 28760,
+          "start_time": 28400,
+          "text": "等"
+        },
+        {
+          "end_time": 28760,
+          "start_time": 28760,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 32520,
+      "start_time": 29480,
+      "text": "直到书的后半段，余华才告诉你。",
+      "words": [
+        {
+          "end_time": 29640,
+          "start_time": 29480,
+          "text": "直"
+        },
+        {
+          "end_time": 29760,
+          "start_time": 29640,
+          "text": "到"
+        },
+        {
+          "end_time": 30000,
+          "start_time": 29800,
+          "text": "书"
+        },
+        {
+          "end_time": 30200,
+          "start_time": 30040,
+          "text": "的"
+        },
+        {
+          "end_time": 30400,
+          "start_time": 30200,
+          "text": "后"
+        },
+        {
+          "end_time": 30600,
+          "start_time": 30400,
+          "text": "半"
+        },
+        {
+          "end_time": 30880,
+          "start_time": 30600,
+          "text": "段"
+        },
+        {
+          "end_time": 30880,
+          "start_time": 30880,
+          "text": "，"
+        },
+        {
+          "end_time": 31320,
+          "start_time": 31240,
+          "text": "余"
+        },
+        {
+          "end_time": 31600,
+          "start_time": 31560,
+          "text": "华"
+        },
+        {
+          "end_time": 32000,
+          "start_time": 31760,
+          "text": "才"
+        },
+        {
+          "end_time": 32120,
+          "start_time": 32000,
+          "text": "告"
+        },
+        {
+          "end_time": 32240,
+          "start_time": 32120,
+          "text": "诉"
+        },
+        {
+          "end_time": 32520,
+          "start_time": 32240,
+          "text": "你"
+        },
+        {
+          "end_time": 32520,
+          "start_time": 32520,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 37480,
+      "start_time": 32840,
+      "text": "他找的地方叫文城，地图上没有，是她随口编的。",
+      "words": [
+        {
+          "end_time": 33080,
+          "start_time": 32840,
+          "text": "他"
+        },
+        {
+          "end_time": 33280,
+          "start_time": 33080,
+          "text": "找"
+        },
+        {
+          "end_time": 33400,
+          "start_time": 33280,
+          "text": "的"
+        },
+        {
+          "end_time": 33520,
+          "start_time": 33400,
+          "text": "地"
+        },
+        {
+          "end_time": 33640,
+          "start_time": 33520,
+          "text": "方"
+        },
+        {
+          "end_time": 33800,
+          "start_time": 33640,
+          "text": "叫"
+        },
+        {
+          "end_time": 33960,
+          "start_time": 33920,
+          "text": "文"
+        },
+        {
+          "end_time": 34360,
+          "start_time": 34200,
+          "text": "城"
+        },
+        {
+          "end_time": 34360,
+          "start_time": 34360,
+          "text": "，"
+        },
+        {
+          "end_time": 35080,
+          "start_time": 34880,
+          "text": "地"
+        },
+        {
+          "end_time": 35280,
+          "start_time": 35080,
+          "text": "图"
+        },
+        {
+          "end_time": 35520,
+          "start_time": 35280,
+          "text": "上"
+        },
+        {
+          "end_time": 35680,
+          "start_time": 35520,
+          "text": "没"
+        },
+        {
+          "end_time": 35840,
+          "start_time": 35680,
+          "text": "有"
+        },
+        {
+          "end_time": 35840,
+          "start_time": 35840,
+          "text": "，"
+        },
+        {
+          "end_time": 36240,
+          "start_time": 35960,
+          "text": "是"
+        },
+        {
+          "end_time": 36400,
+          "start_time": 36240,
+          "text": "她"
+        },
+        {
+          "end_time": 36640,
+          "start_time": 36440,
+          "text": "随"
+        },
+        {
+          "end_time": 36840,
+          "start_time": 36640,
+          "text": "口"
+        },
+        {
+          "end_time": 37040,
+          "start_time": 36920,
+          "text": "编"
+        },
+        {
+          "end_time": 37480,
+          "start_time": 37160,
+          "text": "的"
+        },
+        {
+          "end_time": 37480,
+          "start_time": 37480,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 42480,
+      "start_time": 37960,
+      "text": "他找的那个人，在他到的那年冬天，已经冻死在雪里。",
+      "words": [
+        {
+          "end_time": 38160,
+          "start_time": 37960,
+          "text": "他"
+        },
+        {
+          "end_time": 38360,
+          "start_time": 38160,
+          "text": "找"
+        },
+        {
+          "end_time": 38560,
+          "start_time": 38360,
+          "text": "的"
+        },
+        {
+          "end_time": 38680,
+          "start_time": 38560,
+          "text": "那"
+        },
+        {
+          "end_time": 38840,
+          "start_time": 38680,
+          "text": "个"
+        },
+        {
+          "end_time": 39120,
+          "start_time": 38840,
+          "text": "人"
+        },
+        {
+          "end_time": 39120,
+          "start_time": 39120,
+          "text": "，"
+        },
+        {
+          "end_time": 39360,
+          "start_time": 39120,
+          "text": "在"
+        },
+        {
+          "end_time": 39520,
+          "start_time": 39360,
+          "text": "他"
+        },
+        {
+          "end_time": 39800,
+          "start_time": 39520,
+          "text": "到"
+        },
+        {
+          "end_time": 39920,
+          "start_time": 39800,
+          "text": "的"
+        },
+        {
+          "end_time": 40080,
+          "start_time": 39920,
+          "text": "那"
+        },
+        {
+          "end_time": 40240,
+          "start_time": 40080,
+          "text": "年"
+        },
+        {
+          "end_time": 40520,
+          "start_time": 40320,
+          "text": "冬"
+        },
+        {
+          "end_time": 40680,
+          "start_time": 40520,
+          "text": "天"
+        },
+        {
+          "end_time": 40680,
+          "start_time": 40680,
+          "text": "，"
+        },
+        {
+          "end_time": 41200,
+          "start_time": 41040,
+          "text": "已"
+        },
+        {
+          "end_time": 41280,
+          "start_time": 41200,
+          "text": "经"
+        },
+        {
+          "end_time": 41480,
+          "start_time": 41320,
+          "text": "冻"
+        },
+        {
+          "end_time": 41800,
+          "start_time": 41600,
+          "text": "死"
+        },
+        {
+          "end_time": 42000,
+          "start_time": 41800,
+          "text": "在"
+        },
+        {
+          "end_time": 42200,
+          "start_time": 42000,
+          "text": "雪"
+        },
+        {
+          "end_time": 42480,
+          "start_time": 42240,
+          "text": "里"
+        },
+        {
+          "end_time": 42480,
+          "start_time": 42480,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 43880,
+      "start_time": 43160,
+      "text": "他不知道。",
+      "words": [
+        {
+          "end_time": 43440,
+          "start_time": 43160,
+          "text": "他"
+        },
+        {
+          "end_time": 43560,
+          "start_time": 43440,
+          "text": "不"
+        },
+        {
+          "end_time": 43680,
+          "start_time": 43560,
+          "text": "知"
+        },
+        {
+          "end_time": 43880,
+          "start_time": 43680,
+          "text": "道"
+        },
+        {
+          "end_time": 43880,
+          "start_time": 43880,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 48400,
+      "start_time": 44840,
+      "text": "在一个不存在的地方，等一个不会回来的人。",
+      "words": [
+        {
+          "end_time": 45120,
+          "start_time": 44840,
+          "text": "在"
+        },
+        {
+          "end_time": 45240,
+          "start_time": 45120,
+          "text": "一"
+        },
+        {
+          "end_time": 45320,
+          "start_time": 45240,
+          "text": "个"
+        },
+        {
+          "end_time": 45520,
+          "start_time": 45320,
+          "text": "不"
+        },
+        {
+          "end_time": 45720,
+          "start_time": 45520,
+          "text": "存"
+        },
+        {
+          "end_time": 45880,
+          "start_time": 45720,
+          "text": "在"
+        },
+        {
+          "end_time": 46040,
+          "start_time": 45880,
+          "text": "的"
+        },
+        {
+          "end_time": 46160,
+          "start_time": 46040,
+          "text": "地"
+        },
+        {
+          "end_time": 46360,
+          "start_time": 46160,
+          "text": "方"
+        },
+        {
+          "end_time": 46360,
+          "start_time": 46360,
+          "text": "，"
+        },
+        {
+          "end_time": 47120,
+          "start_time": 46800,
+          "text": "等"
+        },
+        {
+          "end_time": 47280,
+          "start_time": 47120,
+          "text": "一"
+        },
+        {
+          "end_time": 47400,
+          "start_time": 47280,
+          "text": "个"
+        },
+        {
+          "end_time": 47520,
+          "start_time": 47400,
+          "text": "不"
+        },
+        {
+          "end_time": 47680,
+          "start_time": 47520,
+          "text": "会"
+        },
+        {
+          "end_time": 47840,
+          "start_time": 47680,
+          "text": "回"
+        },
+        {
+          "end_time": 48000,
+          "start_time": 47840,
+          "text": "来"
+        },
+        {
+          "end_time": 48160,
+          "start_time": 48000,
+          "text": "的"
+        },
+        {
+          "end_time": 48400,
+          "start_time": 48160,
+          "text": "人"
+        },
+        {
+          "end_time": 48400,
+          "start_time": 48400,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 52240,
+      "start_time": 48760,
+      "text": "这本书读完，你会合上，很久不说话。",
+      "words": [
+        {
+          "end_time": 49000,
+          "start_time": 48760,
+          "text": "这"
+        },
+        {
+          "end_time": 49160,
+          "start_time": 49000,
+          "text": "本"
+        },
+        {
+          "end_time": 49360,
+          "start_time": 49160,
+          "text": "书"
+        },
+        {
+          "end_time": 49600,
+          "start_time": 49480,
+          "text": "读"
+        },
+        {
+          "end_time": 49960,
+          "start_time": 49720,
+          "text": "完"
+        },
+        {
+          "end_time": 49960,
+          "start_time": 49960,
+          "text": "，"
+        },
+        {
+          "end_time": 50200,
+          "start_time": 50000,
+          "text": "你"
+        },
+        {
+          "end_time": 50400,
+          "start_time": 50200,
+          "text": "会"
+        },
+        {
+          "end_time": 50560,
+          "start_time": 50480,
+          "text": "合"
+        },
+        {
+          "end_time": 50880,
+          "start_time": 50760,
+          "text": "上"
+        },
+        {
+          "end_time": 50880,
+          "start_time": 50880,
+          "text": "，"
+        },
+        {
+          "end_time": 51440,
+          "start_time": 51240,
+          "text": "很"
+        },
+        {
+          "end_time": 51640,
+          "start_time": 51440,
+          "text": "久"
+        },
+        {
+          "end_time": 51840,
+          "start_time": 51640,
+          "text": "不"
+        },
+        {
+          "end_time": 52000,
+          "start_time": 51840,
+          "text": "说"
+        },
+        {
+          "end_time": 52240,
+          "start_time": 52000,
+          "text": "话"
+        },
+        {
+          "end_time": 52240,
+          "start_time": 52240,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 56840,
+      "start_time": 52880,
+      "text": "然后想起一个人，一段路，一个走不到头的地方。",
+      "words": [
+        {
+          "end_time": 53000,
+          "start_time": 52880,
+          "text": "然"
+        },
+        {
+          "end_time": 53120,
+          "start_time": 53000,
+          "text": "后"
+        },
+        {
+          "end_time": 53360,
+          "start_time": 53120,
+          "text": "想"
+        },
+        {
+          "end_time": 53560,
+          "start_time": 53360,
+          "text": "起"
+        },
+        {
+          "end_time": 53720,
+          "start_time": 53560,
+          "text": "一"
+        },
+        {
+          "end_time": 53840,
+          "start_time": 53720,
+          "text": "个"
+        },
+        {
+          "end_time": 54160,
+          "start_time": 53840,
+          "text": "人"
+        },
+        {
+          "end_time": 54160,
+          "start_time": 54160,
+          "text": "，"
+        },
+        {
+          "end_time": 54680,
+          "start_time": 54480,
+          "text": "一"
+        },
+        {
+          "end_time": 54920,
+          "start_time": 54680,
+          "text": "段"
+        },
+        {
+          "end_time": 55240,
+          "start_time": 54920,
+          "text": "路"
+        },
+        {
+          "end_time": 55240,
+          "start_time": 55240,
+          "text": "，"
+        },
+        {
+          "end_time": 55720,
+          "start_time": 55560,
+          "text": "一"
+        },
+        {
+          "end_time": 55880,
+          "start_time": 55720,
+          "text": "个"
+        },
+        {
+          "end_time": 56040,
+          "start_time": 55880,
+          "text": "走"
+        },
+        {
+          "end_time": 56200,
+          "start_time": 56040,
+          "text": "不"
+        },
+        {
+          "end_time": 56280,
+          "start_time": 56200,
+          "text": "到"
+        },
+        {
+          "end_time": 56520,
+          "start_time": 56280,
+          "text": "头"
+        },
+        {
+          "end_time": 56640,
+          "start_time": 56520,
+          "text": "的"
+        },
+        {
+          "end_time": 56720,
+          "start_time": 56640,
+          "text": "地"
+        },
+        {
+          "end_time": 56840,
+          "start_time": 56720,
+          "text": "方"
+        },
+        {
+          "end_time": 56840,
+          "start_time": 56840,
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "text": "一个男人，抱着婴儿，从北方出发，一路向南。他在找一个女人。她来过他家，又走了。回来过一次，生下孩子，又消失了。他没有恨。他只是抱着女儿，继续走。他找到一个小镇，住了下来，认了兄弟，开了铺子，把女儿养大。可他一直在等。直到书的后半段，余华才告诉你。他找的地方叫文城，地图上没有，是她随口编的。他找的那个人，在他到的那年冬天，已经冻死在雪里。他不知道。在一个不存在的地方，等一个不会回来的人。这本书读完，你会合上，很久不说话。然后想起一个人，一段路，一个走不到头的地方。"
+}

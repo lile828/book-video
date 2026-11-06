@@ -1,0 +1,396 @@
+{
+  "book": "文城",
+  "total_duration_sec": 61.0,
+  "timeline_method": "整段合成+句级时间戳",
+  "speaker": "zh_male_shenyeboke_uranus_bigtts",
+  "speaker_name": "深夜播客男声",
+  "segments": [
+    {
+      "id": "01_开场白",
+      "title": "今天分享的是",
+      "file": "01_开场白.wav",
+      "path": "03_成片素材/音频/文城/01_开场白.wav",
+      "format": "wav",
+      "sample_rate": 40000,
+      "channels": 2,
+      "char_count": 6,
+      "duration_sec": 2.0,
+      "duration_source": "文件实测",
+      "speech_rate": 3.0,
+      "lines": [
+        {
+          "seq": 1,
+          "text": "今天分享的是；",
+          "start_sec": 0.0,
+          "end_sec": 2.0,
+          "abs_start_sec": 0.0,
+          "abs_end_sec": 2.0,
+          "source": "文件实测"
+        }
+      ]
+    },
+    {
+      "id": "02_书名",
+      "title": "《文城》",
+      "file": "02_书名.wav",
+      "path": "03_成片素材/音频/文城/02_书名.wav",
+      "format": "wav",
+      "sample_rate": 40000,
+      "channels": 2,
+      "char_count": 2,
+      "duration_sec": 2.0,
+      "duration_source": "文件实测",
+      "speech_rate": 1.0,
+      "lines": [
+        {
+          "seq": 1,
+          "text": "《文城》",
+          "start_sec": 0.0,
+          "end_sec": 2.0,
+          "abs_start_sec": 2.0,
+          "abs_end_sec": 4.0,
+          "source": "文件实测"
+        }
+      ]
+    },
+    {
+      "id": "03_正文",
+      "title": "正文",
+      "file": "03_正文.wav",
+      "path": "03_成片素材/音频/文城/03_正文.wav",
+      "format": "wav",
+      "sample_rate": 40000,
+      "channels": 2,
+      "char_count": 198,
+      "duration_sec": 57.0,
+      "duration_source": "文件实测",
+      "speech_rate": 3.47,
+      "lines": [
+        {
+          "seq": 1,
+          "text": "一个男人，",
+          "start_sec": 0.08,
+          "end_sec": 1.341,
+          "abs_start_sec": 4.08,
+          "abs_end_sec": 5.341,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 2,
+          "text": "抱着婴儿，",
+          "start_sec": 1.341,
+          "end_sec": 2.602,
+          "abs_start_sec": 5.341,
+          "abs_end_sec": 6.602,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 3,
+          "text": "从北方出发，",
+          "start_sec": 2.602,
+          "end_sec": 4.179,
+          "abs_start_sec": 6.602,
+          "abs_end_sec": 8.179,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 4,
+          "text": "一路向南。",
+          "start_sec": 4.179,
+          "end_sec": 5.44,
+          "abs_start_sec": 8.179,
+          "abs_end_sec": 9.44,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 5,
+          "text": "他在找一个女人。",
+          "start_sec": 6.0,
+          "end_sec": 7.32,
+          "abs_start_sec": 10.0,
+          "abs_end_sec": 11.32,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 6,
+          "text": "她来过他家，",
+          "start_sec": 8.16,
+          "end_sec": 9.76,
+          "abs_start_sec": 12.16,
+          "abs_end_sec": 13.76,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 7,
+          "text": "又走了。",
+          "start_sec": 9.76,
+          "end_sec": 10.72,
+          "abs_start_sec": 13.76,
+          "abs_end_sec": 14.72,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 8,
+          "text": "回来过一次，",
+          "start_sec": 11.44,
+          "end_sec": 13.009,
+          "abs_start_sec": 15.44,
+          "abs_end_sec": 17.009,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 9,
+          "text": "生下孩子，",
+          "start_sec": 13.009,
+          "end_sec": 14.265,
+          "abs_start_sec": 17.009,
+          "abs_end_sec": 18.265,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 10,
+          "text": "又消失了。",
+          "start_sec": 14.265,
+          "end_sec": 15.52,
+          "abs_start_sec": 18.265,
+          "abs_end_sec": 19.52,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 11,
+          "text": "他没有恨。",
+          "start_sec": 16.16,
+          "end_sec": 16.84,
+          "abs_start_sec": 20.16,
+          "abs_end_sec": 20.84,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 12,
+          "text": "他只是抱着女儿，",
+          "start_sec": 17.44,
+          "end_sec": 19.456,
+          "abs_start_sec": 21.44,
+          "abs_end_sec": 23.456,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 13,
+          "text": "继续走。",
+          "start_sec": 19.456,
+          "end_sec": 20.32,
+          "abs_start_sec": 23.456,
+          "abs_end_sec": 24.32,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 14,
+          "text": "他找到一个小镇，",
+          "start_sec": 20.64,
+          "end_sec": 22.507,
+          "abs_start_sec": 24.64,
+          "abs_end_sec": 26.507,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 15,
+          "text": "住了下来，",
+          "start_sec": 22.507,
+          "end_sec": 23.573,
+          "abs_start_sec": 26.507,
+          "abs_end_sec": 27.573,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 16,
+          "text": "认了兄弟，",
+          "start_sec": 23.573,
+          "end_sec": 24.64,
+          "abs_start_sec": 27.573,
+          "abs_end_sec": 28.64,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 17,
+          "text": "开了铺子，",
+          "start_sec": 24.64,
+          "end_sec": 25.707,
+          "abs_start_sec": 28.64,
+          "abs_end_sec": 29.707,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 18,
+          "text": "把女儿养大。",
+          "start_sec": 25.707,
+          "end_sec": 27.04,
+          "abs_start_sec": 29.707,
+          "abs_end_sec": 31.04,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 19,
+          "text": "可他一直在等。",
+          "start_sec": 27.36,
+          "end_sec": 28.76,
+          "abs_start_sec": 31.36,
+          "abs_end_sec": 32.76,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 20,
+          "text": "直到书的后半段，",
+          "start_sec": 29.48,
+          "end_sec": 31.117,
+          "abs_start_sec": 33.48,
+          "abs_end_sec": 35.117,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 21,
+          "text": "余华才告诉你——",
+          "start_sec": 31.117,
+          "end_sec": 32.52,
+          "abs_start_sec": 35.117,
+          "abs_end_sec": 36.52,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 22,
+          "text": "他找的地方叫文城。",
+          "start_sec": 32.84,
+          "end_sec": 34.794,
+          "abs_start_sec": 36.84,
+          "abs_end_sec": 38.794,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 23,
+          "text": "地图上没有，",
+          "start_sec": 34.794,
+          "end_sec": 36.015,
+          "abs_start_sec": 38.794,
+          "abs_end_sec": 40.015,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 24,
+          "text": "是她随口编的。",
+          "start_sec": 36.015,
+          "end_sec": 37.48,
+          "abs_start_sec": 40.015,
+          "abs_end_sec": 41.48,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 25,
+          "text": "他找的那个人，",
+          "start_sec": 37.96,
+          "end_sec": 39.251,
+          "abs_start_sec": 41.96,
+          "abs_end_sec": 43.251,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 26,
+          "text": "在他到的那年冬天，",
+          "start_sec": 39.251,
+          "end_sec": 40.973,
+          "abs_start_sec": 43.251,
+          "abs_end_sec": 44.973,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 27,
+          "text": "已经冻死在雪里。",
+          "start_sec": 40.973,
+          "end_sec": 42.48,
+          "abs_start_sec": 44.973,
+          "abs_end_sec": 46.48,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 28,
+          "text": "他不知道。",
+          "start_sec": 43.16,
+          "end_sec": 43.88,
+          "abs_start_sec": 47.16,
+          "abs_end_sec": 47.88,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 29,
+          "text": "他在一个不存在的地方，",
+          "start_sec": 44.84,
+          "end_sec": 46.714,
+          "abs_start_sec": 48.84,
+          "abs_end_sec": 50.714,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 30,
+          "text": "等一个不会回来的人。",
+          "start_sec": 46.714,
+          "end_sec": 48.4,
+          "abs_start_sec": 50.714,
+          "abs_end_sec": 52.4,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 31,
+          "text": "这本书读完，",
+          "start_sec": 48.76,
+          "end_sec": 50.003,
+          "abs_start_sec": 52.76,
+          "abs_end_sec": 54.003,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 32,
+          "text": "你会合上，",
+          "start_sec": 50.003,
+          "end_sec": 50.997,
+          "abs_start_sec": 54.003,
+          "abs_end_sec": 54.997,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 33,
+          "text": "很久不说话。",
+          "start_sec": 50.997,
+          "end_sec": 52.24,
+          "abs_start_sec": 54.997,
+          "abs_end_sec": 56.24,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 34,
+          "text": "然后想起一个人，",
+          "start_sec": 52.88,
+          "end_sec": 54.339,
+          "abs_start_sec": 56.88,
+          "abs_end_sec": 58.339,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 35,
+          "text": "一段路，",
+          "start_sec": 54.339,
+          "end_sec": 54.964,
+          "abs_start_sec": 58.339,
+          "abs_end_sec": 58.964,
+          "source": "句级时间戳+句内字数比例"
+        },
+        {
+          "seq": 36,
+          "text": "一个走不到头的地方。",
+          "start_sec": 54.964,
+          "end_sec": 56.84,
+          "abs_start_sec": 58.964,
+          "abs_end_sec": 60.84,
+          "source": "句级时间戳+句内字数比例"
+        }
+      ]
+    }
+  ]
+}

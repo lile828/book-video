@@ -1,0 +1,27 @@
+{
+  "sentences": [
+    {
+      "end_time": 1760,
+      "start_time": 1280,
+      "text": "文城。",
+      "words": [
+        {
+          "end_time": 1400,
+          "start_time": 1280,
+          "text": "文"
+        },
+        {
+          "end_time": 1760,
+          "start_time": 1560,
+          "text": "城"
+        },
+        {
+          "end_time": 1760,
+          "start_time": 1760,
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "text": "文城。"
+}
