@@ -1,0 +1,115 @@
+{
+  "book": "蛤蟆先生去看心理医生",
+  "author": "罗伯特·戴博德",
+  "draft_name": "蛤蟆先生去看心理医生-书单视频",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "asset_base": "https://raw.githubusercontent.com/lile828/book-video/main/%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F%E5%8E%BB%E7%9C%8B%E5%BF%83%E7%90%86%E5%8C%BB%E7%94%9F",
+  "shots": [
+    {
+      "image": "00_原始素材/背景图/背景图1.png",
+      "start": 0.0,
+      "end": 4.935,
+      "transition": "",
+      "transition_duration": 0
+    },
+    {
+      "image": "00_原始素材/背景图/背景图2.png",
+      "start": 4.935,
+      "end": 9.205,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图3.png",
+      "start": 9.205,
+      "end": 13.685,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图4.png",
+      "start": 13.685,
+      "end": 19.37,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图5.png",
+      "start": 19.37,
+      "end": 24.16,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图6.png",
+      "start": 24.16,
+      "end": 29.17,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图7.png",
+      "start": 29.17,
+      "end": 33.42,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图8.png",
+      "start": 33.42,
+      "end": 37.945,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    }
+  ],
+  "overlays": [
+    {
+      "name": "标题层（书名+作者）",
+      "image": "00_原始素材/叠加层/标题层_1080x1920.png",
+      "start": 0.0,
+      "end": 37.945
+    },
+    {
+      "name": "书封层（豆瓣原书封，左下角）",
+      "image": "00_原始素材/叠加层/书封层_1080x1920.png",
+      "start": 0.0,
+      "end": 19.37
+    }
+  ],
+  "audios": [
+    {
+      "audio": "03_成片素材/音频/蛤蟆先生去看心理医生/01_钩子.wav",
+      "start": 0.0,
+      "end": 4.935
+    },
+    {
+      "audio": "03_成片素材/音频/蛤蟆先生去看心理医生/02_正文.wav",
+      "start": 4.935,
+      "end": 37.145
+    }
+  ],
+  "captions": {
+    "source": "timeline_json",
+    "path": "05_输出结果/语音时长/语音时长清单.json",
+    "text_cleanup": {
+      "strip_tail_punct": true,
+      "strip_book_marks": true
+    },
+    "style": {
+      "text_color": "#ffffff",
+      "border_color": "#000000",
+      "alignment": 1,
+      "font": "SourceHanSansCN-Bold",
+      "font_size": 20,
+      "transform_y": -1240,
+      "bold": true,
+      "has_shadow": true
+    }
+  },
+  "output": {
+    "draft_result": "05_输出结果/草稿/draft_result.json"
+  }
+}
