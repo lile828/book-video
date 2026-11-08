@@ -8,64 +8,66 @@
   },
   "asset_base": "https://raw.githubusercontent.com/lile828/book-video/main/%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F%E5%8E%BB%E7%9C%8B%E5%BF%83%E7%90%86%E5%8C%BB%E7%94%9F",
   "tts": {
-    "base_style": "请合成一段中文朗读音频。用浑厚、结实、有胸腔共鸣的成熟男声，像一位四十岁上下的男性在认真跟对面的人说话。声音要实、有中气，字音咬实，从嗓子里出来而不是从气里飘出来——不要气声、不要耳语感、不要刻意把声音压轻压虚、不要越念越轻。不要朗诵腔，不要一字一顿，不要新闻播报感，句尾自然收住不要拖长。",
-    "target_rate": 6.0,
-    "target_dbfs": -18.0
+    "speaker": "zh_male_shenyeboke_uranus_bigtts",
+    "target_rate": 5.2,
+    "target_dbfs": -16.0,
+    "loudness_method": "tools/gain_and_limit.py",
+    "note": "未重跑 TTS。对既有 A 音色音频整体 +8.4dB 并用前视限幅压到 -1dBFS 峰值，时长与逐行时间轴完全不变。"
   },
   "shots": [
     {
       "image": "00_原始素材/背景图/背景图1.png",
       "start": 0.0,
-      "end": 5.85,
+      "end": 4.935,
       "transition": "",
       "transition_duration": 0
     },
     {
       "image": "00_原始素材/背景图/背景图2.png",
-      "start": 5.85,
-      "end": 10.955,
+      "start": 4.935,
+      "end": 9.205,
       "transition": "叠化",
       "transition_duration": 0.5
     },
     {
       "image": "00_原始素材/背景图/背景图3.png",
-      "start": 10.955,
-      "end": 15.835,
+      "start": 9.205,
+      "end": 13.685,
       "transition": "叠化",
       "transition_duration": 0.5
     },
     {
       "image": "00_原始素材/背景图/背景图4.png",
-      "start": 15.835,
-      "end": 22.455,
+      "start": 13.685,
+      "end": 19.37,
       "transition": "叠化",
       "transition_duration": 0.5
     },
     {
       "image": "00_原始素材/背景图/背景图5.png",
-      "start": 22.455,
-      "end": 28.085,
+      "start": 19.37,
+      "end": 24.16,
       "transition": "叠化",
       "transition_duration": 0.5
     },
     {
       "image": "00_原始素材/背景图/背景图6.png",
-      "start": 28.085,
-      "end": 33.385,
+      "start": 24.16,
+      "end": 29.17,
       "transition": "叠化",
       "transition_duration": 0.5
     },
     {
       "image": "00_原始素材/背景图/背景图7.png",
-      "start": 33.385,
-      "end": 38.18,
+      "start": 29.17,
+      "end": 33.42,
       "transition": "叠化",
       "transition_duration": 0.5
     },
     {
       "image": "00_原始素材/背景图/背景图8.png",
-      "start": 38.18,
-      "end": 43.5,
+      "start": 33.42,
+      "end": 37.945,
       "transition": "叠化",
       "transition_duration": 0.5
     }
@@ -75,25 +77,25 @@
       "name": "标题层（书名+作者）",
       "image": "00_原始素材/叠加层/标题层_1080x1920.png",
       "start": 0.0,
-      "end": 43.5
+      "end": 37.945
     },
     {
       "name": "书封层（豆瓣原书封，左下角）",
       "image": "00_原始素材/叠加层/书封层_1080x1920.png",
       "start": 0.0,
-      "end": 22.455
+      "end": 19.37
     }
   ],
   "audios": [
     {
       "audio": "03_成片素材/音频/蛤蟆先生去看心理医生/01_钩子.wav",
       "start": 0.0,
-      "end": 5.85
+      "end": 4.935
     },
     {
       "audio": "03_成片素材/音频/蛤蟆先生去看心理医生/02_正文.wav",
-      "start": 5.85,
-      "end": 42.7
+      "start": 4.935,
+      "end": 37.145
     }
   ],
   "captions": {
