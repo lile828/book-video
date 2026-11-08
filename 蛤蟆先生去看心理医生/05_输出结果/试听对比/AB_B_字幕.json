@@ -1,0 +1,154 @@
+{
+  "sentences": [
+    {
+      "end_time": 1080,
+      "start_time": 40,
+      "text": "你不是抑郁。",
+      "words": [
+        {
+          "end_time": 320,
+          "start_time": 40,
+          "text": "你"
+        },
+        {
+          "end_time": 440,
+          "start_time": 320,
+          "text": "不"
+        },
+        {
+          "end_time": 560,
+          "start_time": 440,
+          "text": "是"
+        },
+        {
+          "end_time": 760,
+          "start_time": 720,
+          "text": "抑"
+        },
+        {
+          "end_time": 1080,
+          "start_time": 840,
+          "text": "郁"
+        },
+        {
+          "end_time": 1080,
+          "start_time": 1080,
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "end_time": 6120,
+      "start_time": 1720,
+      "text": "你只是太久，没被人好好问过一句，你还好吗。",
+      "words": [
+        {
+          "end_time": 1960,
+          "start_time": 1720,
+          "text": "你"
+        },
+        {
+          "end_time": 2120,
+          "start_time": 1960,
+          "text": "只"
+        },
+        {
+          "end_time": 2280,
+          "start_time": 2120,
+          "text": "是"
+        },
+        {
+          "end_time": 2480,
+          "start_time": 2280,
+          "text": "太"
+        },
+        {
+          "end_time": 2840,
+          "start_time": 2480,
+          "text": "久"
+        },
+        {
+          "end_time": 2840,
+          "start_time": 2840,
+          "text": "，"
+        },
+        {
+          "end_time": 3560,
+          "start_time": 3280,
+          "text": "没"
+        },
+        {
+          "end_time": 3760,
+          "start_time": 3560,
+          "text": "被"
+        },
+        {
+          "end_time": 3960,
+          "start_time": 3760,
+          "text": "人"
+        },
+        {
+          "end_time": 4040,
+          "start_time": 3960,
+          "text": "好"
+        },
+        {
+          "end_time": 4240,
+          "start_time": 4080,
+          "text": "好"
+        },
+        {
+          "end_time": 4440,
+          "start_time": 4240,
+          "text": "问"
+        },
+        {
+          "end_time": 4640,
+          "start_time": 4440,
+          "text": "过"
+        },
+        {
+          "end_time": 4800,
+          "start_time": 4640,
+          "text": "一"
+        },
+        {
+          "end_time": 5040,
+          "start_time": 4800,
+          "text": "句"
+        },
+        {
+          "end_time": 5040,
+          "start_time": 5040,
+          "text": "，"
+        },
+        {
+          "end_time": 5600,
+          "start_time": 5400,
+          "text": "你"
+        },
+        {
+          "end_time": 5760,
+          "start_time": 5600,
+          "text": "还"
+        },
+        {
+          "end_time": 5920,
+          "start_time": 5760,
+          "text": "好"
+        },
+        {
+          "end_time": 6120,
+          "start_time": 5920,
+          "text": "吗"
+        },
+        {
+          "end_time": 6120,
+          "start_time": 6120,
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "text": "你不是抑郁。你只是太久，没被人好好问过一句，你还好吗。"
+}
