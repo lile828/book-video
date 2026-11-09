@@ -1,0 +1,157 @@
+{
+  "book": "被讨厌的勇气",
+  "author": "岸见一郎 / 古贺史健",
+  "draft_name": "被讨厌的勇气-书单视频",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "asset_base": "https://raw.githubusercontent.com/lile828/book-video/main/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94",
+  "tts": {
+    "speaker": "zh_male_shenyeboke_uranus_bigtts",
+    "target_rate": 5.4,
+    "target_dbfs": -16.0,
+    "base_style": "请合成一段中文朗读音频。用偏低、干净、克制的男声，像在拆一个逻辑，冷静分析，不劝、不哄、不煽情。以实声为主，不要气声，不要耳语，不要播报腔，句尾干脆收住不要拖长。",
+    "loudness_method": "TTS 合成到 -18 dBFS，再用 tools/gain_and_limit.py 提到 -16 dBFS",
+    "note": "音色沿用条目 01 定稿的 A（深夜播客），基调整体更冷；音色定稿后不再为调音量重跑 TTS。"
+  },
+  "shots": [
+    {
+      "image": "00_原始素材/背景图/背景图1.png",
+      "start": 0.0,
+      "end": 5.535,
+      "transition": "",
+      "transition_duration": 0
+    },
+    {
+      "image": "00_原始素材/背景图/背景图2.png",
+      "start": 5.535,
+      "end": 10.39,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图3.png",
+      "start": 10.39,
+      "end": 13.295,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图4.png",
+      "start": 13.295,
+      "end": 18.66,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图5.png",
+      "start": 18.66,
+      "end": 21.955,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图6.png",
+      "start": 21.955,
+      "end": 26.165,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图7.png",
+      "start": 26.165,
+      "end": 29.655,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图8.png",
+      "start": 29.655,
+      "end": 34.185,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    }
+  ],
+  "overlays": [
+    {
+      "name": "标题层（书名+作者）",
+      "image": "00_原始素材/叠加层/标题层_1080x1920.png",
+      "start": 0.0,
+      "end": 34.185
+    },
+    {
+      "name": "书封层（豆瓣原书封，左下角）",
+      "image": "00_原始素材/叠加层/书封层_1080x1920.png",
+      "start": 0.0,
+      "end": 18.66
+    }
+  ],
+  "audios": [
+    {
+      "audio": "03_成片素材/音频/被讨厌的勇气/01_钩子.wav",
+      "start": 0.0,
+      "end": 5.535
+    },
+    {
+      "audio": "03_成片素材/音频/被讨厌的勇气/02_正文.wav",
+      "start": 5.535,
+      "end": 33.385
+    }
+  ],
+  "captions": {
+    "source": "timeline_json",
+    "path": "05_输出结果/语音时长/语音时长清单.json",
+    "text_cleanup": {
+      "strip_tail_punct": true,
+      "strip_book_marks": true
+    },
+    "style": {
+      "text_color": "#ffffff",
+      "border_color": "#000000",
+      "alignment": 1,
+      "font": "SourceHanSansCN-Bold",
+      "font_size": 20,
+      "transform_y": -1240,
+      "bold": true,
+      "has_shadow": true
+    }
+  },
+  "output": {
+    "draft_result": "05_输出结果/草稿/draft_result.json"
+  },
+  "shot_meta": [
+    {
+      "func": "钩子",
+      "desc": "深夜书房，聚光灯自上而下照亮深色木桌，两只白瓷杯（一只空、一只剩半杯凉茶），光锥外纯黑，桌角合着的书被光勾出细亮轮廓"
+    },
+    {
+      "func": "痛点A",
+      "desc": "夜景玻璃幕墙，玻璃上模糊人形倒影只剩肩线，背后城市灯火虚化成光斑，冷蓝与零星暖黄连错，上部大量留空"
+    },
+    {
+      "func": "痛点B",
+      "desc": "极暗卧室，手机屏幕朝下扣在床头柜，边缘渗出一圈极细白光照亮一小片木纹，其余近乎全黑，左侧纯黑影"
+    },
+    {
+      "func": "引入书",
+      "desc": "极暗灰泥墙，一束窄硬光从左上斜切，投出一高一矮两个拉长的影子（无面部细节），下方露出一级带苔痕石阶"
+    },
+    {
+      "func": "观点1",
+      "desc": "黄铜钥匙静置黑色石材台面，齿边被冷光勾出白亮细线，背景纯黑，向右投短而硬的影子"
+    },
+    {
+      "func": "观点2",
+      "desc": "紧闭旧木门，门缝下透出一线细长白光，球形铜把手有氧化暗斑，门框边缘墙皮剥落，两侧全暗"
+    },
+    {
+      "func": "反转",
+      "desc": "一个人背对镜头站在天台边缘，外套被风吹起，剪影无面部，远处冷蓝城市天际线灯火稀疏，下部为水泥地"
+    },
+    {
+      "func": "收尾",
+      "desc": "纯黑桌面上摊开的书被顶光打出明亮光斑，书页边缘泛白四周迅速衰减全黑，旁边一支合上的黑色钢笔"
+    }
+  ]
+}

@@ -12,3 +12,9 @@ _旧音色备份/
 .env
 .env.local
 secrets.json
+
+# TTS 逐行缓存（26 个 wav，随时可重生成，不进库）
+_lines/
+
+# 图片重做临时目录
+重做/

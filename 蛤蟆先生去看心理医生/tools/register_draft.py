@@ -238,6 +238,14 @@ def main():
             v = "%.1f MB" % (v / 1024 / 1024)
         print("    %-30s %s" % (k, v))
 
+    # 模板生成的草稿常与其他草稿共用同一个 draft_id（capcut-mate 的服务端模板），
+    # 索引里出现重复 ID 会让剪映把两条草稿当成同一条，必须换新
+    existing_ids = {e.get("draft_id") for e in kept if e.get("draft_id")}
+    if entry.get("draft_id") in existing_ids:
+        old = entry["draft_id"]
+        entry["draft_id"] = str(uuid.uuid4()).upper()
+        print("  draft_id 与已有草稿冲突（%s），已换新：%s" % (old[:8], entry["draft_id"][:8]))
+
     kept.append(entry)
     index["all_draft_store"] = kept
     index["draft_ids"] = len(kept)
