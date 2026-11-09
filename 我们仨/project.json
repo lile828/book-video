@@ -1,0 +1,157 @@
+{
+  "book": "我们仨",
+  "author": "杨绛",
+  "draft_name": "我们仨-书单视频",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "asset_base": "https://raw.githubusercontent.com/lile828/book-video/main/%E6%88%91%E4%BB%AC%E4%BB%A8",
+  "tts": {
+    "speaker": "zh_male_shenyeboke_uranus_bigtts",
+    "target_rate": 4.8,
+    "target_dbfs": -16.0,
+    "base_style": "请合成一段中文朗读音频。用偏低、温和、克制的男声，像在念一封存了很久的旧信，语气平铺、不劝、不哄、不煽情。以实声为主，不要气声，不要耳语，不要播报腔，不要叹气，句尾平收不要拖长。",
+    "loudness_method": "TTS 合成到 -18 dBFS，再用 tools/gain_and_limit.py 提到 -16 dBFS",
+    "note": "音色沿用条目 01 定稿的 A（深夜播客），语速按条目 03 方案降到 4.8 字/秒；音色定稿后不再为调音量重跑 TTS。"
+  },
+  "shots": [
+    {
+      "image": "00_原始素材/背景图/背景图1.png",
+      "start": 0.0,
+      "end": 4.265,
+      "transition": "",
+      "transition_duration": 0
+    },
+    {
+      "image": "00_原始素材/背景图/背景图2.png",
+      "start": 4.265,
+      "end": 8.925,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图3.png",
+      "start": 8.925,
+      "end": 11.605,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图4.png",
+      "start": 11.605,
+      "end": 15.76,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图5.png",
+      "start": 15.76,
+      "end": 19.105,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图6.png",
+      "start": 19.105,
+      "end": 23.12,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图7.png",
+      "start": 23.12,
+      "end": 26.26,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图8.png",
+      "start": 26.26,
+      "end": 30.575,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    }
+  ],
+  "overlays": [
+    {
+      "name": "标题层（书名+作者）",
+      "image": "00_原始素材/叠加层/标题层_1080x1920.png",
+      "start": 0.0,
+      "end": 30.575
+    },
+    {
+      "name": "书封层（豆瓣原书封，左下角）",
+      "image": "00_原始素材/叠加层/书封层_1080x1920.png",
+      "start": 0.0,
+      "end": 15.76
+    }
+  ],
+  "audios": [
+    {
+      "audio": "03_成片素材/音频/我们仨/01_钩子.wav",
+      "start": 0.0,
+      "end": 4.265
+    },
+    {
+      "audio": "03_成片素材/音频/我们仨/02_正文.wav",
+      "start": 4.265,
+      "end": 29.775
+    }
+  ],
+  "captions": {
+    "source": "timeline_json",
+    "path": "05_输出结果/语音时长/语音时长清单.json",
+    "text_cleanup": {
+      "strip_tail_punct": true,
+      "strip_book_marks": true
+    },
+    "style": {
+      "text_color": "#ffffff",
+      "border_color": "#000000",
+      "alignment": 1,
+      "font": "SourceHanSansCN-Bold",
+      "font_size": 20,
+      "transform_y": -1240,
+      "bold": true,
+      "has_shadow": true
+    }
+  },
+  "output": {
+    "draft_result": "05_输出结果/草稿/draft_result.json"
+  },
+  "shot_meta": [
+    {
+      "func": "钩子",
+      "desc": "老式木桌一角，泛黄棉麻台布，三只白瓷茶杯摆成三角，其中一只倒扣、杯底留一圈旧茶渍，午后纱窗在桌面落下网格柔影，空中细尘，褪色米褐、粗颗粒"
+    },
+    {
+      "func": "场景A",
+      "desc": "半开旧木抽屉俯拍，一只老相框正面朝下压在抽屉底，旁边一叠麻绳捆着的旧信纸、纸角卷曲发黄，光从上方斜射只照亮相框背面与信纸边缘，深处沉在阴影"
+    },
+    {
+      "func": "场景B",
+      "desc": "空荡老式客厅，两把藤编扶手椅面对面摆着，其中一把明显空着、坐垫凹陷，墙上一只木壳挂钟（钟面模糊不可读），半透白纱帘漫射冷灰白光，灰米调、构图对称"
+    },
+    {
+      "func": "引入书",
+      "desc": "一只旧皮质行李箱半开放在地板上，箱内叠着粗布衣物、折好的手帕和一只小玻璃药瓶，箱盖内侧贴着褪色托运标签（无文字），侧上方光打进箱子，暖褐低饱和、景深浅，左下角留书封位"
+    },
+    {
+      "func": "细节1",
+      "desc": "厨房木案板特写，中式菜刀搁在板上，半棵白菜和一只磕了口的搪瓷碗剩着水，窗台一小盆蒜苗叶片透亮，清晨侧光把木纹照清，米暖调"
+    },
+    {
+      "func": "细节2",
+      "desc": "饭桌局部，白瓷碗里剩几粒米饭，筷子平行搁在碗沿，椅子被推开一小段、椅脚在地上留浅痕，只有碗沿被侧光照亮一道，低调暖褐、明暗比大、左侧大面积暗部"
+    },
+    {
+      "func": "情绪高点",
+      "desc": "窗边一把旧木椅，椅背搭着洗得发白的旧毛衣、袖子垂下，半透窗帘被风吹起一角，阳光斜射成光柱、尘埃可见，椅子空着、座面有长期使用的光泽，暖金逆光、柔焦"
+    },
+    {
+      "func": "收尾",
+      "desc": "沙发角落的固定电话，听筒搁在扶手上、螺旋线垂落到地毯堆成一圈，旁边一本合着的布面精装书和一副老花镜，落地灯投下温暖圆形光区、光外柔软暗部，米暖调"
+    }
+  ]
+}
