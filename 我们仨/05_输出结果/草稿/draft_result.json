@@ -1,0 +1,14 @@
+{
+  "book": "我们仨",
+  "draft_id": "20261109123602515452a6",
+  "draft_url": "https://capcut-mate.jcaigc.cn/openapi/capcut-mate/v1/get_draft?draft_id=20261109123602515452a6",
+  "width": 1080,
+  "height": 1920,
+  "shots": 8,
+  "audios": 2,
+  "bgm": 0,
+  "captions": 24,
+  "overlays": 2,
+  "total_duration_sec": 30.575,
+  "project": "C:\\Users\\scott\\WorkBuddy\\书单视频\\我们仨\\project.json"
+}
