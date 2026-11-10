@@ -1,0 +1,151 @@
+{
+  "book": "窄门",
+  "author": "安德烈·纪德",
+  "draft_name": "窄门-书单视频",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "asset_base": "https://raw.githubusercontent.com/lile828/book-video/main/%E7%AA%84%E9%97%A8",
+  "tts": {
+    "speaker": "zh_male_shenyeboke_uranus_bigtts",
+    "target_rate": 5.2,
+    "base_style": "用偏低、冷、克制的男声朗读，句尾平收不要拖长。"
+  },
+  "shots": [
+    {
+      "image": "00_原始素材/背景图/背景图1.png",
+      "start": 0.0,
+      "end": 3.63,
+      "transition": "",
+      "transition_duration": 0
+    },
+    {
+      "image": "00_原始素材/背景图/背景图2.png",
+      "start": 3.63,
+      "end": 8.195,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图3.png",
+      "start": 8.195,
+      "end": 10.825,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图4.png",
+      "start": 10.825,
+      "end": 13.84,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图5.png",
+      "start": 13.84,
+      "end": 17.2,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图6.png",
+      "start": 17.2,
+      "end": 19.85,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图7.png",
+      "start": 19.85,
+      "end": 24.92,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图1.png",
+      "start": 24.92,
+      "end": 30.39,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    }
+  ],
+  "overlays": [
+    {
+      "image": "00_原始素材/叠加层/标题层_1080x1920.png",
+      "start": 0.0,
+      "end": 30.39,
+      "name": "标题层（书名+作者）"
+    },
+    {
+      "image": "00_原始素材/叠加层/书封层_1080x1920.png",
+      "start": 0.0,
+      "end": 13.84,
+      "name": "书封层（左下角）"
+    }
+  ],
+  "audios": [
+    {
+      "audio": "03_成片素材/音频/窄门/01_钩子.wav",
+      "start": 0.0,
+      "end": 3.63
+    },
+    {
+      "audio": "03_成片素材/音频/窄门/02_正文.wav",
+      "start": 3.63,
+      "end": 29.59
+    }
+  ],
+  "captions": {
+    "source": "timeline_json",
+    "path": "05_输出结果/语音时长/语音时长清单.json",
+    "text_cleanup": {
+      "strip_tail_punct": true,
+      "strip_book_marks": true
+    },
+    "style": {
+      "text_color": "#ffffff",
+      "border_color": "#000000",
+      "alignment": 1,
+      "font": "SourceHanSansCN-Bold",
+      "font_size": 20,
+      "transform_y": -1240,
+      "bold": true,
+      "has_shadow": true
+    }
+  },
+  "output": {
+    "draft_result": "05_输出结果/草稿/draft_result.json"
+  },
+  "asset_dir": "03_成片素材/音频/窄门",
+  "shot_meta": [
+    {
+      "func": "钩子",
+      "desc": "冷灰蓝旧宅走廊，尽头一扇极窄的木门半开，一道窄长冷白光斜切到木地板，门边挂一件深色外套"
+    },
+    {
+      "func": "场景A",
+      "desc": "石砌花园矮墙与生锈铁栅门，门内一丛冷白花，门外石阶上一道拉长的人影"
+    },
+    {
+      "func": "细节1",
+      "desc": "木桌俯拍，写到一半的信纸与钢笔，旁边烧到一半的白蜡烛，烛光只照亮纸的一角"
+    },
+    {
+      "func": "引入书",
+      "desc": "教堂石墙上极高极窄的一扇侧门，冷光从门缝切成一道细长亮带，四周沉在深蓝黑里"
+    },
+    {
+      "func": "情绪高点",
+      "desc": "深蓝暮色铁栅门，一只手只露指尖握在铁条上，门另一侧空着，远处一扇亮着冷光的窗"
+    },
+    {
+      "func": "转折",
+      "desc": "空的疗养院病房，窄铁床白床单铺得极平、枕头一个浅凹痕，白纱帘被风吹起"
+    },
+    {
+      "func": "收尾",
+      "desc": "深夜木桌摊开旧布面日记，纸页空白，手指停在页边，铜盘里快燃尽的白蜡烛"
+    }
+  ]
+}
