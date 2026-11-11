@@ -1,0 +1,122 @@
+{
+  "book": "平凡的世界",
+  "author": "路遥",
+  "draft_name": "平凡的世界-书单视频",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "asset_base": "https://raw.githubusercontent.com/lile828/book-video/main/%E5%B9%B3%E5%87%A1%E7%9A%84%E4%B8%96%E7%95%8C",
+  "shots": [
+    {
+      "image": "00_原始素材/背景图/背景图1.png",
+      "start": 0.0,
+      "end": 5.215,
+      "transition": "",
+      "transition_duration": 0
+    },
+    {
+      "image": "00_原始素材/背景图/背景图2.png",
+      "start": 5.215,
+      "end": 8.415,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图3.png",
+      "start": 8.415,
+      "end": 12.06,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图4.png",
+      "start": 12.06,
+      "end": 16.83,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图5.png",
+      "start": 16.83,
+      "end": 23.46,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    }
+  ],
+  "overlays": [
+    {
+      "image": "00_原始素材/叠加层/标题层_1080x1920.png",
+      "start": 0.0,
+      "end": 23.46,
+      "name": "标题层（书名+作者）"
+    }
+  ],
+  "audios": [
+    {
+      "audio": "03_成片素材/音频/平凡的世界/01_钩子.wav",
+      "start": 0.0,
+      "end": 3.165
+    },
+    {
+      "audio": "03_成片素材/音频/平凡的世界/02_报书名.wav",
+      "start": 3.165,
+      "end": 5.215
+    },
+    {
+      "audio": "03_成片素材/音频/平凡的世界/03_正文.wav",
+      "start": 5.215,
+      "end": 22.66
+    }
+  ],
+  "captions": {
+    "source": "timeline_json",
+    "path": "05_输出结果/语音时长/语音时长清单.json",
+    "cleanup": true,
+    "style": {
+      "text_color": "#ffffff",
+      "border_color": "#000000",
+      "alignment": 1,
+      "font": "SourceHanSansCN-Bold",
+      "font_size": 20,
+      "transform_y": -1240,
+      "bold": true,
+      "has_shadow": true
+    },
+    "text_cleanup": {
+      "strip_tail_punct": true,
+      "strip_book_marks": true
+    }
+  },
+  "output": {
+    "draft_result": "05_输出结果/草稿/draft_result.json"
+  },
+  "tts": {
+    "speaker": "zh_male_shenyeboke_uranus_bigtts",
+    "target_rate": 6.0,
+    "base_style": "用平实、稳的男声朗读，句尾平收不要上扬。"
+  },
+  "asset_dir": "03_成片素材/音频/平凡的世界",
+  "shot_meta": [
+    {
+      "func": "钩子+报名",
+      "desc": "旧中学食堂门口，浅木长桌上只只留两只空搪瓷碗，晨光从门框铺进水泥地"
+    },
+    {
+      "func": "处境",
+      "desc": "旧木凳上叠着洗得发白的粗布上衣，肘部两块补丁，上面压着一本封面空白的旧书"
+    },
+    {
+      "func": "画面",
+      "desc": "逼仄宿舍床位，素色棉被叠得整齐，枕头下露出旧书边角，纱窗透进晨光"
+    },
+    {
+      "func": "张力点",
+      "desc": "一双粗糙带土色的手交叠托着一本合起的旧书，书放在浅灰粗布裤的膝上"
+    },
+    {
+      "func": "落点+收尾",
+      "desc": "床边浅木矮桌，摊开的旧书页空白，旁边一杯清水，柔光铺在桌面上"
+    }
+  ]
+}
