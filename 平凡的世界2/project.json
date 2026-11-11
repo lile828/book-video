@@ -1,0 +1,111 @@
+{
+  "book": "平凡的世界2",
+  "author": "路遥",
+  "draft_name": "平凡的世界2-书单视频",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "asset_base": "https://raw.githubusercontent.com/lile828/book-video/main/%E5%B9%B3%E5%87%A1%E7%9A%84%E4%B8%96%E7%95%8C2",
+  "shots": [
+    {
+      "image": "00_原始素材/背景图/背景图1.png",
+      "start": 0.0,
+      "end": 4.625,
+      "transition": "",
+      "transition_duration": 0
+    },
+    {
+      "image": "00_原始素材/背景图/背景图2.png",
+      "start": 4.625,
+      "end": 11.205,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图3.png",
+      "start": 11.205,
+      "end": 16.05,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    },
+    {
+      "image": "00_原始素材/背景图/背景图4.png",
+      "start": 16.05,
+      "end": 21.035,
+      "transition": "叠化",
+      "transition_duration": 0.5
+    }
+  ],
+  "overlays": [
+    {
+      "image": "00_原始素材/叠加层/标题层_1080x1920.png",
+      "start": 0.0,
+      "end": 21.035,
+      "name": "标题层（书名+作者）"
+    }
+  ],
+  "audios": [
+    {
+      "audio": "03_成片素材/音频/平凡的世界2/01_钩子.wav",
+      "start": 0.0,
+      "end": 9.075
+    },
+    {
+      "audio": "03_成片素材/音频/平凡的世界2/02_报书名.wav",
+      "start": 9.075,
+      "end": 11.205
+    },
+    {
+      "audio": "03_成片素材/音频/平凡的世界2/03_正文.wav",
+      "start": 11.205,
+      "end": 20.235
+    }
+  ],
+  "captions": {
+    "source": "timeline_json",
+    "path": "05_输出结果/语音时长/语音时长清单.json",
+    "cleanup": true,
+    "style": {
+      "text_color": "#ffffff",
+      "border_color": "#000000",
+      "alignment": 1,
+      "font": "SourceHanSansCN-Bold",
+      "font_size": 20,
+      "transform_y": -1240,
+      "bold": true,
+      "has_shadow": true
+    },
+    "text_cleanup": {
+      "strip_tail_punct": true,
+      "strip_book_marks": true
+    }
+  },
+  "output": {
+    "draft_result": "05_输出结果/草稿/draft_result.json"
+  },
+  "tts": {
+    "speaker": "zh_male_shenyeboke_uranus_bigtts",
+    "target_rate": 5.4,
+    "base_style": "用偏低、厚实的男声朗读，前快后慢。"
+  },
+  "asset_dir": "03_成片素材/音频/平凡的世界2",
+  "shot_meta": [
+    {
+      "func": "钩子1",
+      "desc": "黄土高原黄昏，窑洞村落散在坡下，粗布旧衣的青年背影立在高坡眺望远方，风沙与暖黄暮色"
+    },
+    {
+      "func": "钩子2+固定句",
+      "desc": "深夜简陋小屋，暖黄台灯下青年捧读旧书，眼眶微红，窗外冷月，室内暖光与室外冷蓝对比"
+    },
+    {
+      "func": "解读前半",
+      "desc": "80 年代北方田野，兄弟二人拉犁劳作，额角挂汗，逆光剪影，土黄胶片颗粒"
+    },
+    {
+      "func": "解读后半",
+      "desc": "清晨乡间土路，挎旧布包的粗布旧衣青年背影大步向前，金色晨光洒满麦田，远山朦胧"
+    }
+  ]
+}
